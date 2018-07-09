@@ -33,7 +33,7 @@
 <lastmod>2018-07-05T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/hackathon/2018/07/06/pycon.html</loc>
+<loc>http://localhost:4000/hackathon/2018/07/06/hackmit.html</loc>
 <lastmod>2018-07-06T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -53,6 +53,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contribute/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
