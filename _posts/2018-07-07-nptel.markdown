@@ -1,0 +1,15 @@
+---
+layout: post
+share: true
+title:  "NPTEL Online Courses"
+date:   2018-07-07
+categories: learning
+---
+
+Opportunity to learn courses beyond your classroom.
+NPTEL allows students to learn the subjects of their choice from the comfort of their home.
+
+[Register now](http://nptel.ac.in/) and get an amazing learning experience.
+
+
+[View the list of available courses.](http://nptel.ac.in/media/pdf/nptel_2018_booklet.pdf)

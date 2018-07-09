@@ -1,9 +1,4 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2018/06/11/welcome-to-jekyll.html"
-      },{
         "title": "1 Million Women to Tech",
         "excerpt":"A 3-month global program focused on bringing more females into software development. Women take free and premium online coding courses and work in teams on programming challenges. 1 Million Women To Tech brings expertise in learn to code workshops, remote education and women’s outreach while Oxford Entrepreneurs brings expertise in...","categories": ["hackathon"],
         "tags": [],
@@ -29,13 +24,38 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/competition/2018/07/03/facebook-hacker-cup.html"
       },{
-        "title": "PyCon 2018",
-        "excerpt":"Incubation Centre IIT Patna (ICIITP), is conducting a Hackathon in Sep,2018 and invites students, members of faculty or other innovators to participate in this exciting event. The objectives of the hackathon are to identify solutions for relevant problems existing in various sectors prevalent in the rural and urban community. The...","categories": ["conference"],
+        "title": "Speak at GHCI 2018",
+        "excerpt":"Last date July 8 The Call for Submissions for GHCI 18 is now open with tracks covering the latest and most exciting technologies. See which track you are most interested in and make a submission in the area of your expertise. If you have expertise and want to share it...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/03/ghci-speaker.html"
+      },{
+        "title": "Internship at IIA",
+        "excerpt":"The Internship Programme is conducted by the Indian Institute of Astrophysics (IIA) with the aim of promoting interest in Scientific Research among other Institutions/University/College students. Candidates selected for this programme, will work on specific projects under the supervision the academic staff members of IIA. This programme runs throughout the academic...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/04/internship-iia.html"
+      },{
+        "title": "PyCon India 2018",
+        "excerpt":"PyCon’s are premier conferences about developing and using the Python programming language. It attracts the best programmers, experts, enthusiasts, community leaders, entrepreneurs, and even college students from all corners of the country and abroad. The event focuses on key aspects of sharing knowledge and experience, solving important issues together, learning...","categories": ["conference"],
         "tags": [],
         "url": "http://localhost:4000/conference/2018/07/05/pycon.html"
+      },{
+        "title": "HackMIT 2018",
+        "excerpt":"Registration for HackMIT 2018 is now open at hackmit.org! Fly on over and apply for what might just be the best adventure of your life from September 15-16, 2018. Registration closes July 31, 2018. At HackMIT, you’ll have the chance to: Meet awesome hackers from all over the world Create...","categories": ["hackathon"],
+        "tags": [],
+        "url": "http://localhost:4000/hackathon/2018/07/06/pycon.html"
       },{
         "title": "Speak at India Youth Conclave 3.0",
         "excerpt":"Have a story that can inspire the youth of the city? A journey worth sharing? We are looking out for speakers for IYC 3.0 and if you believe that your story can make a difference and spark curiosity in the minds of the youth of Nagpur! We want you!!! IYC...","categories": ["conference"],
         "tags": [],
         "url": "http://localhost:4000/conference/2018/07/07/india-youth-conclave.html"
+      },{
+        "title": "NPTEL Online Courses",
+        "excerpt":"Opportunity to learn courses beyond your classroom.NPTEL allows students to learn the subjects of their choice from the comfort of their home. Register now and get an amazing learning experience. View the list of available courses. ","categories": ["learning"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/2018/07/07/nptel.html"
+      },{
+        "title": "Alexa Dev Day",
+        "excerpt":"Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Join us for training sessions, workshops, live demos, and networking with Alexa experts and your...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/08/alexa-dev-day.html"
       }]

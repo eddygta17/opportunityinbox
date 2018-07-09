@@ -1,17 +1,27 @@
 ---
 layout: post
 share: true
-title:  "PyCon 2018"
+title:  "PyCon India 2018"
 date:   2018-07-05
 categories: conference
 ---
 
+PyCon's are premier conferences about developing and using the Python programming language. It attracts the best programmers, experts, enthusiasts, community leaders, entrepreneurs, and even college students from all corners of the country and abroad.
 
+The event focuses on key aspects of sharing knowledge and experience, solving important issues together, learning and collaborating, meeting and network with the best and brightest in the community in an open-source ecosystem.
 
-Incubation Centre IIT Patna (ICIITP), is conducting a Hackathon in Sep,2018 and invites students, members of faculty or other innovators to participate in this exciting event.
+Here's how your presence at PyCon India 2018 could effectively help us and our brand get exposed to an ocean full of opportunities that we are yet to explore.
 
-The objectives of the hackathon are to identify solutions for relevant problems existing in various sectors prevalent in the rural and urban community. The selected outcomes will be given an opportunity to get evaluated for Incubation at Incubation Centre IIT Patna, with a seed funding of up to Rs. 10 Lakhs.
+- PyCon India aims at bringing folks who love Python under one roof and create a healthy environment to learn. Fusing together fields of Data analysis, ML/AI, Automation, Web development, Software development and more.
 
-[Take part in this hackathon](https://innovate.mygov.in/iitp/)
+- It's a unique chance to create strategic partnerships and promote our company's brand at the forefront of the Python Community in India, by gathering valuable insights on current market trends and also recruiting fresh talent.
 
-![Poster for hackethon](/images/hacke.jpg)
+- PyCon India is also a learning opportunity, offering a wide array of talks, workshops, keynotes, developer sprints strung together in a packed schedule each day divided by various tracks that people could follow.
+
+- Each presented by industry experts, community leaders and many young minds delving into new technologies and latest trends in the market. Some including ML/AI, Automation, Embedded Systems, Networking, Security, Web Development.
+
+- You will also be meeting top technical minds, brainstorm with them on ideas, challenges, and best practices. Collaborate with them on projects and solve technical issues.
+
+[Don't miss this opportunity buy your tickets now.](https://in.pycon.org/2018/)
+## There are special tickets for students
+![Poster for pycon](/images/pycon.jpg)

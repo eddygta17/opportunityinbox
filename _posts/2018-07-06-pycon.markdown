@@ -1,0 +1,25 @@
+---
+layout: post
+share: true
+title:  "HackMIT 2018"
+date:   2018-07-06
+categories: hackathon
+---
+Registration for HackMIT 2018 is now open at hackmit.org! Fly on over and apply for what might just be the best adventure of your life from September 15-16, 2018. Registration closes July 31, 2018.
+
+At HackMIT, you'll have the chance to:
+
+- Meet awesome hackers from all over the world
+- Create cool projects with your friends
+- Learn something new!
+- Interact with sponsors and hear their stories
+- Receive mentorship from industry professionals
+- Compete for awesome prizes
+- And of course, get free stuff
+
+For  far-away hackers, they provide travel reimbursements and will match you with a super cool MIT student for free housing over the weekend! All meals, snacks, and drinks are also on them- get ready for another round of #SnackMIT. 
+
+
+Questions or concerns? Shoot an email at help@hackmit.org. [We look forward to receiving your application!](https://hackmit.org/)
+
+# Students without .edu email may contact the team directly
