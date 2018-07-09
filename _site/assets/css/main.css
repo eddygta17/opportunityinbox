@@ -1801,6 +1801,15 @@ th {
     .btn--reddit:visited {
       background-color: #ff4500;
       color: #fff; }
+  .btn--whatsapp {
+    background-color: #075e54;
+    color: #fff; }
+    .btn--whatsapp:hover {
+      background-color: #064b43;
+      color: #fff; }
+    .btn--whatsapp:visited {
+      background-color: #075e54;
+      color: #fff; }
   .btn--block {
     display: block;
     width: 100%; }
