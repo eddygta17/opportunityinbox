@@ -2,20 +2,25 @@ var store = [{
         "title": "Welcome to Jekyll!",
         "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
         "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2017/05/01/welcome-to-jekyll-(3rd-copy).html"
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2017/06/01/welcome-to-jekyll-(another-copy).html"
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2017/06/11/welcome-to-jekyll-(copy).html"
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
-        "tags": [],
         "url": "http://localhost:4000/jekyll/update/2018/06/11/welcome-to-jekyll.html"
+      },{
+        "title": "1 Million Women to Tech",
+        "excerpt":"Hackathon A 3-month global program focused on bringing more females into software development. Women take free and premium online coding courses and work in teams on programming challenges. 1 Million Women To Tech brings expertise in learn to code workshops, remote education and women’s outreach while Oxford Entrepreneurs brings expertise...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/01/1-million.html"
+      },{
+        "title": "Facebook Hacker Cup 2018",
+        "excerpt":"Competition Facebook hacker cup is an annual algorithmic programming contest organized by Facebook. Be it students, professionals or experts it attracts numerous programming enthusiasts from all around the globe. Top contenders are eligible for the interview call from Facebook for Software Developer role. Facebook Hacker cup is particularly known for...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/01/facebook-hacker-cup.html"
+      },{
+        "title": "India Innovation Challenge Design Contest 2018",
+        "excerpt":"Competition Texas Instruments in collaboration with Department of Science and Technology (DST) proudly announce the DST &amp; Texas Instruments India Innovation Challenge Design Contest 2018 anchored by NSRCEL, Indian Institute of Management, Bangalore (IIMB) and supported by MyGov. The contest is open for all Indian engineering students pursuing undergraduate, postgraduate...","categories": ["competition","startup"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/startup/2018/07/01/iicdc.html"
+      },{
+        "title": "Speak at India Youth Conclave 3.0",
+        "excerpt":"Conference Have a story that can inspire the youth of the city? A journey worth sharing? We are looking out for speakers for IYC 3.0 and if you believe that your story can make a difference and spark curiosity in the minds of the youth of Nagpur! We want you!!!...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/07/india-youth-conclave.html"
       }]

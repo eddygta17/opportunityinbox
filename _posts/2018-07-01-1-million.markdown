@@ -1,0 +1,20 @@
+---
+layout: post
+share: true
+title:  "1 Million Women to Tech"
+date:   2018-07-01
+categories: competition 
+---
+Hackathon
+
+A 3-month global program focused on bringing more females into software development. 
+Women take free and premium online coding courses and work in teams on programming challenges. 
+
+1 Million Women To Tech brings expertise in learn to code workshops, remote education and women’s outreach while Oxford Entrepreneurs brings expertise in organizing hackathons and provides venue and marketing support.
+
+
+[For detailed instructions go and register now.](https://1millionwomentotech.com/summerofcode1/)
+
+![Poster for the hackahon](/images/womentotech.jpg)
+
+
