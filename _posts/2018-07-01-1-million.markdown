@@ -3,9 +3,9 @@ layout: post
 share: true
 title:  "1 Million Women to Tech"
 date:   2018-07-01
-categories: competition 
+categories: hackathon 
 ---
-Hackathon
+
 
 A 3-month global program focused on bringing more females into software development. 
 Women take free and premium online coding courses and work in teams on programming challenges. 

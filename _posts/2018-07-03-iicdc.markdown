@@ -5,7 +5,8 @@ title:  "India Innovation Challenge Design Contest 2018"
 date:   2018-07-01
 categories: competition startup
 ---
-Competition
+
+
 
 Texas Instruments in collaboration with Department of Science and Technology (DST) proudly announce the DST & Texas Instruments India Innovation Challenge Design Contest 2018 anchored by NSRCEL, Indian Institute of Management, Bangalore (IIMB) and supported by MyGov. The contest is open for all Indian engineering students pursuing undergraduate, postgraduate & Doctoral degrees with Indian engineering colleges.
 
