@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title:  "Harvard Academy Scholars Programin 2018"
+title:  "Harvard Academy Scholars Program 2018"
 date:   2018-07-10
 categories: scholarship
 ---
