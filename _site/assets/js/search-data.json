@@ -55,7 +55,27 @@ var store = [{
         "url": "http://localhost:4000/learning/2018/07/07/nptel.html"
       },{
         "title": "Alexa Dev Day",
-        "excerpt":"Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Join us for training sessions, workshops, live demos, and networking with Alexa experts and your...","categories": ["conference"],
+        "excerpt":"Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Join us for training sessions, workshops, live demos, and networking with Alexa experts and your...","categories": ["conference","training"],
         "tags": [],
-        "url": "http://localhost:4000/conference/2018/07/08/alexa-dev-day.html"
+        "url": "http://localhost:4000/conference/training/2018/07/08/alexa-dev-day.html"
+      },{
+        "title": "AWS IoT Webinar",
+        "excerpt":"AWS IoT free webinar by Quesite.in. When: Jul 15, 2018 10:00 AM Topic: Introduction to AWS IoT Interested students can Register in advance for this webinar only first 100 participants are allowed to access the LIVE webinar. Register by filling this form After registering, you will receive a confirmation email...","categories": ["webinar"],
+        "tags": [],
+        "url": "http://localhost:4000/webinar/2018/07/10/aws-webinar.html"
+      },{
+        "title": "GFZ PostDoc Fellowship 2018",
+        "excerpt":"New scholarship programme started has now started accepting applications for GFZ PostDoc Fellowship that aim at adding to the future direction of GFZ’s research. The positions are planned to be filled as of November 2018. The GFZ German Research Centre for Geosciences is the national research centre for Earth sciences....","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/10/gfz.html"
+      },{
+        "title": "Harvard Academy Scholars Program 2018",
+        "excerpt":"Harvard Academy Scholars Program for Postgraduate USA in 2018 The Harvard Academy for International and national Studies, a foundation of the Weatherhead Center for International Affairs at Harvard University, supports the Academy Scholars Program. This program is available to all ongoing Ph.D. beneficiaries and doctoral applicants. The Academy Scholars Program...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/10/harvard-usa.html"
+      },{
+        "title": "Intern in China",
+        "excerpt":"With high demand and limited spaces, internships at elite global companies can be hard to come by, especially in the West where internships are often snapped up a year in advance. While the competition in China is still fierce domestically with the number of young, hungry Chinese graduates dwarfing that...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/10/mandintern.html"
       }]
