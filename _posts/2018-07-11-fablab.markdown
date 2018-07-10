@@ -1,0 +1,20 @@
+---
+layout: post
+share: true
+title:  "Training for students at FabLab"
+date:   2018-07-11
+categories: training
+---
+FabLabs are fabrication laborotories for students and makers to bring their products to life.
+
+It is costly to have all the machines required for completing a project, so utilise this opportunity and learn latest fabrication techinques at FabLab Kerala.
+
+There exists a wide range of modern fabricating machines at the FabLab. 
+The program is conducted on every saturday at two locations in Kerala.
+
+Get trained at FabLab. Register for the next Edition of Fab Saturday at Trivandrum & Kochi.
+[Register for Trivandrum](https://in.explara.com/e/tvpm1fablabworkshop-3rdedition)
+[Regiter for Kochi](https://in.explara.com/e/ekm1fablabworkshop-3rdedition)
+
+![Poster for fablab](/images/fablab.jpg)
+

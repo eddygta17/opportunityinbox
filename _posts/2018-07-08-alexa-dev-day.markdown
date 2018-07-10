@@ -3,7 +3,7 @@ layout: post
 share: true
 title:  "Alexa Dev Day"
 date:   2018-07-08
-categories: conference
+categories: conference training
 ---
 
 Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Join us for training sessions, workshops, live demos, and networking with Alexa experts and your peers.

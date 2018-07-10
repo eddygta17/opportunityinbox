@@ -1,0 +1,32 @@
+---
+layout: post
+share: true
+title:  "Ignitus WooTech Mentee"
+date:   2018-07-11
+categories: learning
+---
+It's the era of Women Wooing Technology, so give yourself a pat on the back if you've landed on this page!
+
+Whether you are a student, a working professional or just curious about technology, we will try to cater for all needs.
+
+Woo-Tech would like to help you think outside the box, mainly by:
+- Encouraging and involving more women in technological fields
+- Helping students build careers by matching them with mentors in the professional field based on similar interests
+- Helping professions/non-students seeking to move into technical career by matching them with students for better learning opportunities
+- Provide a platform/ forum for voicing out doubts, questions (either anonymously or not) to seek help from other women/men
+
+NOTE: Men are more than welcome to join as mentors and just be an exciting part of the community. Infact, we want men here! JOIN US!!!
+
+# Please join by filling this form](https://goo.gl/FWFNi5)
+
+### How it works?
+1. Once a mentee approaches with a set of problems, they will be allocated a mentor based on case by case
+profile fit.
+2. Both the mentee and mentor will be notified of the same.
+3. The mentee can contact and seek advice from mentor within 1 week of the same, after which the
+mentorship period ends. In case the mentee does not approach the mentor or there is no response from the
+mentor, we will reallocate.
+4. We encourage use of our slack channel for communication, but it is flexible.
+5. At a time, at most 1 mentee will be allocated to a mentor!
+We call this one-time and on-demand. The next mentor allocation will take place, once a mentee re-requests
+for a mentor.

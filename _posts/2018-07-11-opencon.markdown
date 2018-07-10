@@ -1,0 +1,14 @@
+---
+layout: post
+share: true
+title:  "OpenCon 2018"
+date:   2018-07-11
+categories: conference
+---
+OpenCon is the conference and community for students and early career professionals interested in advancing Open Access, Open Education and Open Data. OpenCon 2018 will be held on November 2-4 in Toronto, Canada. Each year, OpenCon brings together a diverse, representative, and engaged group of participants, with travel scholarships available to most participants. For this reason, attendance at OpenCon 2018 is by application only.
+
+The benefits of applying for OpenCon 2018 extend far beyond attending the Toronto meeting. It’s an opportunity to find collaborators, get connected with scholarships to attend related conferences, and be recognized by the community for the work you do to promote Open Access, Open Education and Open Data. To find out more about OpenCon and our issue areas before applying, [click here](http://www.opencon2018.org/resources).
+
+# Application deadline : July 13 11:59 PM UTC-7
+
+[Head on over and apply now.](https://apply.opencon2018.org/)
