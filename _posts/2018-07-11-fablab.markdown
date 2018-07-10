@@ -13,7 +13,9 @@ There exists a wide range of modern fabricating machines at the FabLab.
 The program is conducted on every saturday at two locations in Kerala.
 
 Get trained at FabLab. Register for the next Edition of Fab Saturday at Trivandrum & Kochi.
+
 [Register for Trivandrum](https://in.explara.com/e/tvpm1fablabworkshop-3rdedition)
+
 [Regiter for Kochi](https://in.explara.com/e/ekm1fablabworkshop-3rdedition)
 
 ![Poster for fablab](/images/fablab.jpg)
