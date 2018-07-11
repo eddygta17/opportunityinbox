@@ -1,0 +1,16 @@
+---
+layout: post
+share: true
+title:  "Fentress Global Challenge"
+date:   2018-07-12
+categories: competition
+---
+# Airport of the Future
+
+Global commerce and the unprecedented demand for travel and have resulted in the proliferation of airports around the world. In their short history, terminal buildings have been criticized for employing generic architectural forms that are unapologetically disconnected from their context and cultural identity. Technical complexity and functional design have often taken precedence over quality and comfort for users.
+
+In less than a century, the airport has emerged as a new architectural typology that is as important as other large-scale public buildings such as museums, libraries, temples, and courthouses. Airports are among the most complex and highly frequented transportation hubs, but they are also increasingly important places for work, commerce, recreation, and culture. The rapid evolution of airports necessitates the incorporation of the latest developments in technology, design, and social trends around the globe.
+
+The Fentress Global Challenge (FGC) competition is open to graduate and undergraduate students who are currently pursuing architecture or engineering degrees in an accredited university program, as well as recent graduates (within the last four years) with a degree in architecture or engineering.
+
+# [Register for the challenge, and innovate.](https://fentressglobalchallenge.com/user/register)

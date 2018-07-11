@@ -1,0 +1,16 @@
+---
+layout: post
+share: true
+title:  "PayTM Mall Campus Icon"
+date:   2018-07-12
+categories: internship
+---
+India’s higher education system is a massive engine with 700 universities and 35,000 affiliated colleges enrolling over 20 million students every year. The country’s nation’s future leaders are groomed here, and we want to help them with an exciting and industry-focused learning experience.
+
+Paytm Mall, owned by Paytm Ecommerce Pvt. Ltd has launched Campus Icon, a six-week nation-wide programme for college students.
+
+### Top performers will be awarded internships and full-time job offers.
+
+[Apply to be a PayTM Campus Icon.](https://campusicon.paytmmall.com/)
+
+![poster paytm](/images/paytm.jpg)

@@ -1,0 +1,23 @@
+---
+layout: post
+share: true
+title:  "MS Hacks 2.0"
+date:   2018-07-12
+categories: hackathon
+---
+
+# MS Hacks - Innovation is Power
+
+Microsoft Hackathon is one of the biggest event that is conducted by Microsoft Student Technical Community of LPU. The sole aim of this hackathon is to provide a competitive environment where students from all the domains come together and build something innovative. We encourage the students to build problems that can solve real-life challenges for users. We aim to build better future with Technology. Are you in? 
+
+### Themes
+- Mobility.
+- AI/ML.
+- Big Data.
+- WebApp .
+- Social Cause.
+
+# [Register here.](https://mshacks.microsoftlpu.com/)
+
+
+![poster for ms](/images/lpu.jpg)

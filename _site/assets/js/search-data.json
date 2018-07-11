@@ -78,4 +78,49 @@ var store = [{
         "excerpt":"With high demand and limited spaces, internships at elite global companies can be hard to come by, especially in the West where internships are often snapped up a year in advance. While the competition in China is still fierce domestically with the number of young, hungry Chinese graduates dwarfing that...","categories": ["internship"],
         "tags": [],
         "url": "http://localhost:4000/internship/2018/07/10/mandintern.html"
+      },{
+        "title": "Digital Marketing Internship",
+        "excerpt":"You would be required to: Develop and manage digital marketing campaigns Oversee a social media strategy. Write and optimize content for the website and social networking accounts such as Facebook and Twitter Track and analyze website traffic flow and provide regular internal reports.Continually work on the Search Engine Optimization of...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/11/digital-internship.html"
+      },{
+        "title": "Training for students at FabLab",
+        "excerpt":"FabLabs are fabrication laborotories for students and makers to bring their products to life. It is costly to have all the machines required for completing a project, so utilise this opportunity and learn latest fabrication techinques at FabLab Kerala. There exists a wide range of modern fabricating machines at the...","categories": ["training"],
+        "tags": [],
+        "url": "http://localhost:4000/training/2018/07/11/fablab.html"
+      },{
+        "title": "KSUM Idea Day",
+        "excerpt":"Kerala Startup Mission is Inviting the application for 11h Idea Day Happening at Trivandrum on 28th July 2018. Recieve funding worth Rs.12 Lakh The Idea Day was conceptualized by Government of Kerala to promote innovation in the State and to play a vital role in the identification of new innovations...","categories": ["startup"],
+        "tags": [],
+        "url": "http://localhost:4000/startup/2018/07/11/idea-day.html"
+      },{
+        "title": "Internship at Intel",
+        "excerpt":"Power Driver internship opportunity at Intel(Bangalore) Responsibilities may be quite diverse of an exempt technical nature. U.S. experience and education requirements will vary significantly depending on the unique needs of the job. Job assignments are usually for the summer or for short periods during breaks from school. Candidates with M.tech...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/11/intel-intern.html"
+      },{
+        "title": "Research training at University of Melbourne",
+        "excerpt":"Graduate research training at the University of Melbourne, Australia 2019Are you looking for scholarships available to pursue your study? You are invited to apply for graduate research scholarships which you will be undertaking research training at one of the well-known universities in Australia Application deadline : December 31 2018 Visit...","categories": ["research","scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/research/scholarship/2018/07/11/melbourne.html"
+      },{
+        "title": "INTU-India Connect Research Internship Program 2019",
+        "excerpt":"The NTU-India Connect Research Internship Programme is a university-wide short-term research programme that lasts for 2 to 6 months. It is initiated to enable undergraduate and graduate students from Indian universities and institutes of higher learning to pursue their research interest at Nanyang Technologcal University, Singapore (NTU). Students of this...","categories": ["internship","research"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/research/2018/07/11/ntu.html"
+      },{
+        "title": "OpenCon 2018",
+        "excerpt":"OpenCon is the conference and community for students and early career professionals interested in advancing Open Access, Open Education and Open Data. OpenCon 2018 will be held on November 2-4 in Toronto, Canada. Each year, OpenCon brings together a diverse, representative, and engaged group of participants, with travel scholarships available...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/11/opencon.html"
+      },{
+        "title": "University Entry Scheme for Navy",
+        "excerpt":"Applications are invited from unmarried candidates who fulfill eligibility condition of Nationality as laid down by Government of India for entry as Permanent Commission (PC) Officers in Executive (GS) Branch and Short Service Commission (SSC) officers in Executive and Technical branches of the Indian Navy under University Entry Scheme (UES)...","categories": ["job"],
+        "tags": [],
+        "url": "http://localhost:4000/job/2018/07/11/university-navy.html"
+      },{
+        "title": "Ignitus WooTech Mentee",
+        "excerpt":"It’s the era of Women Wooing Technology, so give yourself a pat on the back if you’ve landed on this page! Whether you are a student, a working professional or just curious about technology, we will try to cater for all needs. Woo-Tech would like to help you think outside...","categories": ["learning"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/2018/07/11/woo-tech.html"
       }]
