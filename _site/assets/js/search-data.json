@@ -123,4 +123,74 @@ var store = [{
         "excerpt":"It’s the era of Women Wooing Technology, so give yourself a pat on the back if you’ve landed on this page! Whether you are a student, a working professional or just curious about technology, we will try to cater for all needs. Woo-Tech would like to help you think outside...","categories": ["learning"],
         "tags": [],
         "url": "http://localhost:4000/learning/2018/07/11/woo-tech.html"
+      },{
+        "title": "Carole Stone Foundation Scholarship",
+        "excerpt":"Carole Stone Foundation Scholarship for One Young World Summit 2018 in Netherlands Carole Stone Foundation Scholarship is a UK-based charity foundation that stage annual summits where the most young talents from global and national companies, NGOs, universities and other forward-thinking organisations are joined by world leaders, who act as the...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/12/carol-stone.html"
+      },{
+        "title": "Design Internship at Click Labs",
+        "excerpt":"Click Labs India is looking for bright and enthusiastic design interns for an initial period of 6 months with a view for a long-term position. Click Labs believes interns are the future of our company! We are looking for bright, motivated and eager students to join the team in the...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/12/click-labs.html"
+      },{
+        "title": "DST – Women Scientists Scheme",
+        "excerpt":"Women with Indian citizenship Minimum Essential Qualification: Master of Science; Bachelors in Engineering/Technology or equivalent. Age : Minimum 27 years; Maximum 45 years as on 01-01-2018Note : Women in permanent position are not eligible to apply Those who have already undergone training (partially or fully) in any of the earlier...","categories": ["scholarship","training"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/training/2018/07/12/dst-training.html"
+      },{
+        "title": "Dyalog APL Challenge",
+        "excerpt":"The 2018 APL Problem Solving Contest One good reason for entering the 2018 APL Problem Solving Contest is the $6,500 in prizes that are on offer. But more importantly, APL is a programming language which can change the way you think about problems. As a student, you will learn to...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/12/dyalog-apl.html"
+      },{
+        "title": "Fentress Global Challenge",
+        "excerpt":"Airport of the Future Global commerce and the unprecedented demand for travel and have resulted in the proliferation of airports around the world. In their short history, terminal buildings have been criticized for employing generic architectural forms that are unapologetically disconnected from their context and cultural identity. Technical complexity and...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/12/fretness.html"
+      },{
+        "title": "JAPANESE GOVERNMENT (MEXT) SCHOLARSHIP",
+        "excerpt":"The Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan offers scholarships to international students who wish to study in graduate courses at Japanese universities as Research Students (either regular students or non-regular students) under the Japanese Government (MEXT) Scholarship Program. pplicants should apply for the field of...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/12/japan-mext.html"
+      },{
+        "title": "Internship at Khan Academy",
+        "excerpt":"Spend a few months building free education for the world Khan Academy’s content is used by classrooms and individuals in over 25 languages around the world. More than 2 billion interactive math problems have been done. Our faculty’s videos have been viewed over 400,000,000 times. As an intern, any improvement...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/12/khan-academy.html"
+      },{
+        "title": "L'Oréal For Young Women In Science Scholarship 2018",
+        "excerpt":"L’Oréal India strongly believes that Science is the source of progress, and the contribution of women is vital to its future. That is why we have initiated the L’Oréal India For Young Women in Science Scholarship Programme, which encourages and supports young women to pursue careers in science. The programme...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/12/loreal.html"
+      },{
+        "title": "MS Hacks 2.0",
+        "excerpt":"MS Hacks - Innovation is Power Microsoft Hackathon is one of the biggest event that is conducted by Microsoft Student Technical Community of LPU. The sole aim of this hackathon is to provide a competitive environment where students from all the domains come together and build something innovative. We encourage...","categories": ["hackathon"],
+        "tags": [],
+        "url": "http://localhost:4000/hackathon/2018/07/12/mshacks.html"
+      },{
+        "title": "NYAToday Internship",
+        "excerpt":"Online internship NYAToday is seeking interns for their Internship Program for 2018. NYAToday is an award-winning network that has over 100,000 readers from across the world. We are committed to promoting diversity of experience, cultivating youth empowerment, and encouraging youth to become more educated about the world around them. Eligibilities...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/12/nyat.html"
+      },{
+        "title": "PayTM Mall Campus Icon",
+        "excerpt":"India’s higher education system is a massive engine with 700 universities and 35,000 affiliated colleges enrolling over 20 million students every year. The country’s nation’s future leaders are groomed here, and we want to help them with an exciting and industry-focused learning experience. Paytm Mall, owned by Paytm Ecommerce Pvt....","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/12/paytm.html"
+      },{
+        "title": "Research Internship in Russia",
+        "excerpt":"Research Internship in Robotics and Computer Science in Russia Innopolis University (IU) – the first Russian university with a focus on advanced Computer Science, Robotics and its applications, invites graduate and postgraduate students from abroad to do a research internship in one of its laboratories and research units. The minimum...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/12/russia.html"
+      },{
+        "title": "The Climate Reality Project Internship",
+        "excerpt":"The Climate Reality Project Philippines is looking for summer interns to work in our Quezon City office! The Climate Reality Project Philippines (TCRP), a nonprofit organization founded by former US Vice President Al Gore, is dedicated to leading a global cultural movement demanding immediate action on the climate crisis by...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/12/tcrp.html"
+      },{
+        "title": "TED Fellowships Programme 2019",
+        "excerpt":"TED is a nonprofit devoted to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment, and Design converged, and today covers almost all topics — from science to business to global issues — in more...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/12/tedx.html"
       }]
