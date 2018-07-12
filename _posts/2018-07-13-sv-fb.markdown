@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "SV.CO School of Innovation"
+date:   2018-07-13 00:00:45 +0530
+categories: startup
+share: true
+---
+
+School of Innovation India aims to foster future talent in emerging technologies and bring cutting edge technologies to India for ambitious students. It will help students to work with new-age technologies, learn how to build products while in college and scale under the guidance of the Industry.
+
+The first program under School of Innovation is focused on VR as an emerging technology area, and as a part of this program, top 10 student teams from across colleges in India will be selected to build a next generation VR product idea they have.
+
+## Application closes on July 15.
+
+
+# [Apply now and launch your VR product.](https://svlabs.typeform.com/to/oBGW4k)

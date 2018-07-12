@@ -4,7 +4,8 @@
 
 layout: home
 ---
-# Webiste 	Updates
-- To view previous opportunites, visit categoriess.
-- We are updating our subscriber list, join now to get updates in your mail.
+
+## Webiste 	Updates
+- To view previous opportunites, visit categories.
+- <a href="https://feedburner.google.com/fb/a/mailverify?uri=opportunityinbox&amp;loc=en_US">Subscribe to Opportunity Inbox by Email</a>
 - [Please provide your valuable feedback.](https://goo.gl/ocaa3M)

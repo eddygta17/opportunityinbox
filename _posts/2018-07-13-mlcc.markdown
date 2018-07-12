@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "MLCC Study Jam Series India-2018"
+date:   2018-07-13 00:00:46 +0530
+categories: learning training
+share: true
+---
+Google in collaboration with NITI Aayog is focussed on bringing Artificial Intelligence related content to India, to train Indian Developers and help them stay ahead of the curve in the technology world.
+
+The Developer Relations team in India  is running the Machine Learning Crash Course (MLCC) Study Jam series in India from July to November. Study Jams are a series of free, community run, in-person study groups. The objective of Study Jams is to raise the technical proficiency of the participants.
+
+###### Attend a Study Jam (It's free)
+MLCC is one of Google's most popular courses. More than 18,000 Googlers have taken it and now you can take it too! 
+
+Machine Learning Crash Course is one of Google's most popular & free courses. The course develops intuition around fundamental machine learning concepts. This course has been taken by over 18,000 Google engineers & is now available for everyone.
+
+MLCC is intended for those who wish to learn about ML from a practical, applied perspective that will enable them to use machine learning within their everyday projects, and who wish to benefit from the power of TensorFlow wrapped in convenient higher-level abstractions. This is a great opportunity for audience with basic technical knowledge and limited Machine Learning knowledge willing to gain some practical experience in ML and TensorFlow. 
+
+## [Register here to attend a study jam near you.](https://events.withgoogle.com/mlcc-india-2018/registrations/new/)
