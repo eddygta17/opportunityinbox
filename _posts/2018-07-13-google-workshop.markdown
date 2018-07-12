@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Machine Learning Workshop - Trivandrum"
-date:   2018-07-13 00:00:47 +0530
+date:   2018-07-13
 categories: learning training
 share: true
 ---

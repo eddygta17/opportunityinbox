@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scripto - Content Writing Internship"
-date:   2018-07-13 00:00:48 +0530
+date:   2018-07-13
 categories: internship
 share: true
 ---

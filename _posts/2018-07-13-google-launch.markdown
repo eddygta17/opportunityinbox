@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Launch Pad Accelerator"
-date:   2018-07-13 00:00:44 +0530
+date:   2018-07-13
 categories: startup
 share: true
 ---

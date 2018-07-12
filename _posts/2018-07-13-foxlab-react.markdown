@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Foxlab React Workshop"
-date:   2018-07-13 00:00:50 +0530
+date:   2018-07-13
 categories: training learning
 share: true
 ---

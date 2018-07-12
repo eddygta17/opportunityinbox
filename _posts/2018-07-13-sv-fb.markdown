@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SV.CO School of Innovation"
-date:   2018-07-13 00:00:45 +0530
+date:   2018-07-13
 categories: startup
 share: true
 ---

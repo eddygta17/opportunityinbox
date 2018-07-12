@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Globalink Research Internship"
-date:   2018-07-13 00:00:41 +0530
+date:   2018-07-13
 categories: scholarship internship research
 share: true
 ---

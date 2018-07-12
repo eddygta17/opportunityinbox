@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "European Research Consortium for Informatics and Mathematics International Fellowship"
-date:   2018-07-13 00:00:40 +0530
+date:   2018-07-13
 categories: scholarship research
 share: true
 ---

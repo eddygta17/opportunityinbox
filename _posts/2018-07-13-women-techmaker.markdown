@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Women Techmakers Scholars Program 2018"
-date:   2018-07-13 00:00:42 +0530
+date:   2018-07-13
 categories: scholarship
 share: true
 ---
