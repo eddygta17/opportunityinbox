@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "IEEE Conference on Advanced Computing"
+date:   2018-07-13
+categories: conference
+share: true
+---
+
+International Conference on Advanced Computing 2018 is an international conference in the field of Computer Science and Communication, focusing to address issues and developments in advanced computing. This conference seeks to bring together international researchers to present papers and generate discussions in recent trends and developments of computing. The conference will feature a range of presentations on latest research activities as well as stimulating talks and keynote addresses. It is organized by the Department of Computer Technology annually during December.
+
+[Go to this link to submit papers.](https://easychair.org/conferences/?conf=icoac2018)
+
+[For further information go here.](http://www.icoac.mitindia.edu/index.html)
+
+## Submit papers by Sept 3
+
+##### For any queries, contact
+
+Department of Computer Technology
+Madras Institute of Technology Campus, Anna University
+Phone : +91 44 2251 6292/6222
+Email: icoac@mitindia.edu

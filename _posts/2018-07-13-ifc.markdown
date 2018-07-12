@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "India Finance Conference 2018"
+date:   2018-07-13
+categories: conference
+share: true
+---
+
+The India Finance Conference 2018 (IFC 2018), the annual event of the Indian Finance Association (IFA), invites papers for its eighth edition to be held at the Indian Institute of Management Calcutta, Kolkata from 20-22 December, 2018.
+
+The annual conference is jointly organized by the Indian Institute of Management Ahmedabad (IIMA), Indian Institute of Management Bangalore (IIMB), and Indian Institute of Management Calcutta (IIMC). Academics, researchers, doctoral students, and practitioners are invited and encouraged to submit research papers in all areas of finance.
+
+## Last Date for Submission: Aug 17
+## Last Date for Registration: Nov 30
+
+For any queries, email: asstmgr_finlab@iimcal.ac.in
+
+[For submission and registration, visit the website.](http://indiafa.org/event/india-finance-conference-ifc-2018/)
+
