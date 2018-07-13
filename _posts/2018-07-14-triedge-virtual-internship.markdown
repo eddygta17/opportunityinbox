@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Triedge Virtual Internship"
-date:   2018-07-14 05:25:40 +0530
+date:   2018-07-14 06:25:40 +0530
 categories: internship
 share: true
 ---

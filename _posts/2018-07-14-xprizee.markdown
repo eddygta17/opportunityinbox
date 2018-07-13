@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "XPRIZE Visioneering 2018 - Design Challenge"
-date:   2018-07-14 05:27:40 +0530
+date:   2018-07-14 05:57:40 +0530
 categories: competition
 share: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Technical Internship at Synopsis"
-date:   2018-07-14 05:30:40 +0530
+date:   2018-07-14 06:30:40 +0530
 categories: internship
 share: true
 ---

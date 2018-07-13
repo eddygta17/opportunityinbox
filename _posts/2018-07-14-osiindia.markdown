@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call For Papers OSI 2018"
-date:   2018-07-14 05:26:40 +0530
+date:   2018-07-14 05:56:40 +0530
 categories: conference
 share: true
 ---

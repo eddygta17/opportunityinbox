@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NaLDS 2018"
-date:   2018-07-14 05:25:40 +0530
+date:   2018-07-14 06:35:40 +0530
 categories: conference
 share: true
 ---

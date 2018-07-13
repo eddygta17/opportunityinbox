@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elevate 100 2018"
-date:   2018-07-14 05:25:40 +0530
+date:   2018-07-14 05:55:40 +0530
 categories: startup
 share: true
 ---

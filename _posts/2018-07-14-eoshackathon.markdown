@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EOSHACKATHON"
-date:   2018-07-14 05:25:40 +0530
+date:   2018-07-14 06:45:40 +0530
 categories: hackathon
 share: true
 ---
