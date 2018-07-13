@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Call For Papers OSI 2018"
+date:   2018-07-14 05:26:40 +0530
+categories: conference
+share: true
+---
+#### Calling Experts to share their knowledge at the 15th edition of India’s most exciting convention on Open Source
+
+Open Source India (OSI) is the premier Open Source conference in Asia targeted at nurturing and promoting the Open Source ecosystem in the subcontinent. Started as LinuxAsia in 2004, OSI has been at the helm of bringing together the Open Source industry and the community in the last 14 years. The 15th edition of OSI this year aims to take this event a notch higher by focusing on the Open Source ecosystem in Asia, and more specifically, in India.
+
+We have put in our best to make the submission process simple. All you need to do is to click “Submit Talk” and fill the form with the details required .
+
+Each session is of 30-45 minutes which includes a 5 to 10 minutes of Q and A. If you are interested in conducting a workshop, then do fill the details for that too. The workshop should be of minimum 3 hours.
+
+
+# [__"SUBMIT TALK"__](https://www.opensourceindia.in/speaker-registration-osi-2018/)
+
+- CFP Close: 21st July 2018
+- CFP Notifications: 31st July 2018
+- Event Dates: 11-12 October 2018
+
+If your submission gets selected, you will be notified by us. For any further query/suggestion you can reach us at niraj@osidays.com or call us at +919899637885 or 011-40596618.

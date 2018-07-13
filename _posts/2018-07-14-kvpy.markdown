@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "KVPY 2018"
+date:   2018-07-14 05:31:40 +0530
+categories: scholarship
+share: true
+---
+
+The Kishore Vaigyanik Protsahan Yojana (KVPY), initiated by the Department of Science and Technology, Government of India (DST), is a National Fellowship Program for students interested in Basic Science. The program is run by the Indian Institute of Science (IISc), Bangalore. Fellowship is available for five years.
+
+The online application portal for the KVPY Aptitude Test - 2018 is now open. Interested students, currently studying in 11th, 12th or 1st year undergraduate, can apply for the fellowship.
+
+## [Visit the KVPY website for further details.](www.kvpy.iisc.ernet.in)
+
+
+

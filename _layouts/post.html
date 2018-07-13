@@ -29,6 +29,7 @@ layout: default
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
+        {% include subscribe.html %}
 
         {% if site.disqus.shortname %}
           {% include disqus-comments.html %}
@@ -36,6 +37,8 @@ layout: default
 
         {% include page-pagination.html %}
       </div>
-    </div>
+        </div>
+    
   </article>
+
 </main>

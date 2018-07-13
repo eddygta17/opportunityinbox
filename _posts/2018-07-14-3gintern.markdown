@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "3G/4G/5G Protocol stack Dataplane Intern"
+date:   2018-07-14 05:25:40 +0530
+categories: internship
+share: true
+---
+## Job Description
+- Hands on experience in C/Unix .. good programming skill
+- Good debugging skill .. should have hands-on with some debugging tools like gdb
+- knowledge of OS concepts and data Structures
+- Understanding of embedded system is preferable
+- Ability to work independently and multi-task effectively
+- Flexible and willing to accept a change in priorities as necessary
+
+
+## Qualifications
+- Master of Technology Degree in Electronics and Communications, Electrical and Electronics, Computer Science and Engineering
+
+# [__Apply Now__](https://jobs.intel.com/ShowJob/Id/1700896/3g-4G-5G-Protocol-stack-Dataplane-Engineer-Intern/)
+
+
