@@ -22,4 +22,3 @@ Students can join the class as a webinar by registering , and attend the class o
 
 # Application deadline: August 12, 2018 at 23:59 SGT
 
-## [Be a woman techmaker, apply now.](https://cseduapplication.withgoogle.com/applications/wtmapac2018)
