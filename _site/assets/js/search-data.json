@@ -393,4 +393,9 @@ var store = [{
         "excerpt":"At the dawn of a new era in aerospace, with Fly Your Ideas, Airbus offers a unique opportunity for students worldwide to activate their pioneering spirit and innovate for the future. With support from Airbus, teams will tackle global challenges, harnessing the latest digital tools and technologies to create a...","categories": ["competition"],
         "tags": [],
         "url": "http://localhost:4000/competition/2018/07/16/airbus.html"
+      },{
+        "title": "India Smart Cities Internship (ISCI) Program",
+        "excerpt":"The last date to apply is Aug 31, 2018. MoHUA will engage students pursuing Under Graduate/Graduate/Post Graduate degree as Interns to help implementation of Smart City Projects in various States/Cities. The internship will be on unpaid basis for a period of 6 to 12 weeks. They will be given an...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/16/smartcity.html"
       }]
