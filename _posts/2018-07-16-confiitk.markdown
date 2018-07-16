@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "International Conference on Security, Privacy, and Applied Cryptography Engg."
+date:   2018-07-16 05:29:40 +0530
+categories: conference
+share: true
+---
+SPACE 2018 is being organized by Indian Institute of Technology, Kanpur (IIT-K), in cooperation with International Association for Cryptologic Research (IACR) and Cryptology Research Society of India (CRSI) from 15 to 19 December, 2018. The program co-chairs for SPACE 2018 are Dr. Anupam Chattopadhyay (NTU Singapore), Dr. Chester Rebeiro (IIT Madras, India), and Dr. Yuval Yarom (The University of Adelaide and Data61, Australia).
+
+The International Conference on Security, Privacy and Applied Cryptography Engineering (SPACE) is an annual event devoted to various aspects of security, privacy, applied cryptography, and cryptographic engineering. The conferences started in 2011, and SPACE 2018 is the eighth in this series.
+
+## Original papers are invited on all aspects that SPACE 2018 covers
+
+### [Submit your papers here.](https://easychair.org/conferences/?conf=space2018)
+
+__Important Dates__
+- Abstract Submission: 20 July 2018 (IST = GMT+5:30)
+- Notification: 31 August 2018
+- Final Version Due: 14 September 2018
+- Tutorials: 15 – 16 December 2018
+- Conference: 17 – 19 December 2018
+
+
+#### [For more information visit the original site.](https://space2018.cse.iitk.ac.in/)
+
+
+
+

@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Summer School on Antenna & Microwave Engineering"
+date:   2018-07-16 05:28:40 +0530
+categories: learning training
+share: true
+---
+# Course fee is Rs 1000
+# Last date to apply 20 July 2018
+# Duration 23 to 27 July 2018
+
+[Summer School on Antenna and Microwave Engineering (SUSAME-2018)](http://www.nits.ac.in/workshops/Brochure_Summer_School_on_Antenna_and_Microwave_Engineering_23072018.pdf) is a week-long course on Antenna and Microwave Engineering. The aim of this week-long course is to provide a platform to get exposure in the field of antenna and microwave engineering.
+
+__Course Highlights:__
+
+- EMI/EMC.
+- Planar Component/Structure Simulation Techniques.
+- Microwave Power Dividers: Some Recent Trends.
+- Multi-band Impedance Transformers.
+- Design of Microwave Amplifiers.
+- RF MEMS.
+- Antennas for Circular Polarization.
+- Ultra-wideband Multi-functional Antennas.
+- Effect of Microwave Radiation from Communication Devices on Human Body.
+- Effects of Electromagnetic Radiation on Plant Life.
+
+UG and PG students, Research scholars, industry personnel, faculty members of recognized technical institutions interested in the field of Antenna and Microwave Engineering can register for this course.
+
+[Interested candidates are advised to fill the registration form](http://www.nits.ac.in/workshops/Brochure_Summer_School_on_Antenna_and_Microwave_Engineering_23072018.pdf) and email scanned copy of the followings to course coordinator, at ktaimoor@gmail.com
+
+- Filled registration form.
+- Identity card.
+- Payment proof.
+
+Participants will receive an acknowledgement on acceptance of their application over mail.
