@@ -240,7 +240,7 @@ var store = [{
         "url": "http://localhost:4000/learning/training/2018/07/13/mlcc.html"
       },{
         "title": "Robosapiens.ai Machine Learning Master Class",
-        "excerpt":"Robosapiens.ai is conducting a Machine Learning Master Class for free. Students can join the class as a webinar by registering , and attend the class on July 15 2018 21:00 IST. Register now for the webinar. To be eligible to apply, applicants must: Identify as female. Currently be enrolled at...","categories": ["webinar"],
+        "excerpt":"Robosapiens.ai is conducting a Machine Learning Master Class for free. Students can join the class as a webinar by registering , and attend the class on July 15 2018 21:00 IST. Register now for the webinar. ","categories": ["webinar"],
         "tags": [],
         "url": "http://localhost:4000/webinar/2018/07/13/robosapiens-masterclass.html"
       },{
@@ -258,4 +258,139 @@ var store = [{
         "excerpt":"Women Techmakers Scholars will each receive a cash award for the 2018-2019 academic year. A group of female undergraduate and graduate students will be chosen from the applicant pool, and scholarships will be awarded based on the strength of each candidate’s impact on diversity, demonstrated leadership and academic background. All...","categories": ["scholarship"],
         "tags": [],
         "url": "http://localhost:4000/scholarship/2018/07/13/women-techmaker.html"
+      },{
+        "title": "3G/4G/5G Protocol stack Dataplane Intern",
+        "excerpt":"Job Description Hands on experience in C/Unix .. good programming skill Good debugging skill .. should have hands-on with some debugging tools like gdb knowledge of OS concepts and data Structures Understanding of embedded system is preferable Ability to work independently and multi-task effectively Flexible and willing to accept a...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/14/3gintern.html"
+      },{
+        "title": "Elevate 100 2018",
+        "excerpt":"If you are an innovative technology startup, your chance to elevate is here! Apply for Elevate100 2018, a Govt. of Karnataka initiative to elevate your startup to the next level of entrepreneurship through mentorship, knowledge sessions and more. Apply Now  ","categories": ["startup"],
+        "tags": [],
+        "url": "http://localhost:4000/startup/2018/07/14/elevate-100.html"
+      },{
+        "title": "The ExpressVPN Future of Privacy Scholarship",
+        "excerpt":"The ExpressVPN Future of Privacy Scholarship was created to raise awareness of internet privacy and security. The internet is undoubtedly having a transformative effect on our education system. ExpressVPN found, for instance, that virtually all classrooms across the US are being equipped with unprotected high-speed broadband, leaving them open to...","categories": ["scholarship","competition"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/competition/2018/07/14/expresss-vpn.html"
+      },{
+        "title": "Call For Papers OSI 2018",
+        "excerpt":"Calling Experts to share their knowledge at the 15th edition of India’s most exciting convention on Open Source Open Source India (OSI) is the premier Open Source conference in Asia targeted at nurturing and promoting the Open Source ecosystem in the subcontinent. Started as LinuxAsia in 2004, OSI has been...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/14/osiindia.html"
+      },{
+        "title": "XPRIZE Visioneering 2018 - Design Challenge",
+        "excerpt":"Visioneering is your opportunity to design one of our next XPRIZEs. We are asking for your design concepts that can help solve a global need in one of five Grand Challenge Areas. The designers of the best concepts will work with experts at XPRIZE to further refine their concepts and...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/14/xprizee.html"
+      },{
+        "title": "Teach for India Fellowship",
+        "excerpt":"The Teach For India Fellowship program, is an opportunity for India’s brightest and most promising youth, from the nation’s best universities and workplaces, to serve as full-time teachers to children from low-income communities in some of the nation’s most under-resourced schools. Through this experience of teaching in classrooms and working...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/14/teach-for-india.html"
+      },{
+        "title": "Triedge Virtual Internship",
+        "excerpt":"A great opportunity for you to enhance your resume &amp; gain experience by pursuing a virtual part time internship across various profiles. Ideal for those who are unable to pursue a full time internship but want to gain a valuable certificate by devoting a few hours a day. Those who...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/14/triedge-virtual-internship.html"
+      },{
+        "title": "Technical Internship at Synopsis",
+        "excerpt":"Job description Responsible for designing, developing, troubleshooting, or debugging software tools and flows for the development of integrated circuits. To determines hardware compatibility and/or influences hardware design. Experience in programming and knowledge of hardware integrated circuits. To support in a global design team debugging CAD issues, interfacing with foundries, configuring...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/14/technical-intern.html"
+      },{
+        "title": "KVPY 2018",
+        "excerpt":"The Kishore Vaigyanik Protsahan Yojana (KVPY), initiated by the Department of Science and Technology, Government of India (DST), is a National Fellowship Program for students interested in Basic Science. The program is run by the Indian Institute of Science (IISc), Bangalore. Fellowship is available for five years. The online application...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/14/kvpy.html"
+      },{
+        "title": "NaLDS 2018",
+        "excerpt":"NaLDS is an international conference with 120 delegates. It is different to other AIESEC conferences, because it isn’t about AIESEC regarding functional input or exchange knowledge and your position in AIESEC doesn’t matter at all. The focus of the conference is your personal development. It offers you a chance to...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/14/nalds.html"
+      },{
+        "title": "EOSHACKATHON",
+        "excerpt":"The EOS Global Hackathon series is a first-of-its-kind event in the world of blockchain that serves Block.one’s goal of supporting a decentralized global community from the ground up. From June through the end of 2018, Block.one will be hosting a series of initiatives designed to find and give a platform...","categories": ["hackathon"],
+        "tags": [],
+        "url": "http://localhost:4000/hackathon/2018/07/14/eoshackathon.html"
+      },{
+        "title": "AAKRUTI2018",
+        "excerpt":"AAKRUTI is Dassault Systèmes Foundation Nationwide Product Design Contest. AAKRUTI was launched in 2011 and has received tremendous response from all over India in the last 7 years. Each year brings forth a different theme with students surpassing the expectations with their innovative designs and ideas. The objective of AAKRUTI...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/16/aakruti.html"
+      },{
+        "title": "Unisys Cloud 20/20 Technical Project Contest",
+        "excerpt":"It’s now or never! It’s time to redefine the future of India through technological innovation like never before! And Cloud 20/20 gives you that perfect platform as one of India’s biggest online technical project contests for the engineering students to showcase their innovative, path-breaking ideas and take them to the...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/16/unisys.html"
+      },{
+        "title": "7th International Conference on Mathematical and Computational Sciences",
+        "excerpt":"Call for paper The International Conference on Mathematical and Computational Sciences ICMCS-2018) is a premier forum for the presentation of new advances and research results in all areas of Mathematical Sciences and Applications. ICMCS-2018 will bring together leading researchers, engineers and scientists in the domain of interest from around the...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/16/maths-conference.html"
+      },{
+        "title": "FIFA World Cup Scholarships 2018-2019",
+        "excerpt":"The FIFA World Cup announces a scholarship to a student that is in high school, trade school, college or university with majors of business, communications or media. International students are eligible to apply for this grant.Scholarship award 1500$ Must be a community volunteer, must have a 3.0 or better GPA,...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/16/fifa-scholarship.html"
+      },{
+        "title": "HDFC Bank Educational Crisis Scholarship Scheme 2018",
+        "excerpt":"HDFC Bank believes that the benefits of economic growth need to flow to all sections of society. Although not a panacea, education would be one of the main interventions that would lead to the overall economic and social development of the society. With the aim of empowering individuals who are...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/16/hdfc.html"
+      },{
+        "title": "IDRC Research Awards 2019",
+        "excerpt":"IDRC invites applications for the IDRC Research Awards 2019. Research award recipients will join IDRC for a one-year paid program to undertake research on the topic they have submitted, and will receive hands-on experience in research and program management and support, grant administration, and the creation, dissemination, and use of...","categories": ["research","competition"],
+        "tags": [],
+        "url": "http://localhost:4000/research/competition/2018/07/16/idrc.html"
+      },{
+        "title": "Project MARS Competition 2018 by NASA",
+        "excerpt":"Contest deadline August 31 2018 SciArt Exchange in collaboration with NASA presents Project MARS competition- international art and film contest. The competition is open for college students and early career professionals to learn NASA’s deep space endeavors, including the Orion spacecraft, Space Launch System rocket and deep space gateway concept,...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/16/nasa.html"
+      },{
+        "title": "SHELL ECO-MARATHON INDIA",
+        "excerpt":"The event will happen in December 2018 Since 1985, Shell Eco-marathon has challenged student teams around the world to design, build and drive the most energy-efficient cars. In December 2018, for the first time ever, a Shell Eco-marathon challenger event will take place in India. Shell Eco-marathon India is a...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/16/shell-ecomara.html"
+      },{
+        "title": "Summer School on Antenna & Microwave Engineering",
+        "excerpt":"Course fee is Rs 1000 Last date to apply 20 July 2018 Duration 23 to 27 July 2018 Summer School on Antenna and Microwave Engineering (SUSAME-2018) is a week-long course on Antenna and Microwave Engineering. The aim of this week-long course is to provide a platform to get exposure in...","categories": ["learning","training"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/training/2018/07/16/susame.html"
+      },{
+        "title": "International Conference on Security, Privacy, and Applied Cryptography Engg.",
+        "excerpt":"SPACE 2018 is being organized by Indian Institute of Technology, Kanpur (IIT-K), in cooperation with International Association for Cryptologic Research (IACR) and Cryptology Research Society of India (CRSI) from 15 to 19 December, 2018. The program co-chairs for SPACE 2018 are Dr. Anupam Chattopadhyay (NTU Singapore), Dr. Chester Rebeiro (IIT...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/16/confiitk.html"
+      },{
+        "title": "Junior Research Fellowships M.Sc/B.Tech",
+        "excerpt":"The Scientific Analysis Group (SAG) under DRDO, Ministry of Defence, Govt. of India invites candidates for walk-in interviews to be held on August 2, 2018 for the position of Junior Research Fellows (JRF). The candidates would be selected initially for a period of 2 years to work in the area...","categories": ["research","scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/research/scholarship/2018/07/16/jrf-drdo.html"
+      },{
+        "title": "Social Business Champ",
+        "excerpt":"An amazing opportunity for studententrepreneurs and young changemakers to pitch socialbusiness ideas to Prof Muhammad Yunus! I run Make Room, a global social change ecosystem and we are glad to collaborate with Social Business Youth Alliance - SBYA global to present SocialBusinessChamp2018. Send in your ideas today! LAn international ideapitch...","categories": ["startup"],
+        "tags": [],
+        "url": "http://localhost:4000/startup/2018/07/16/twenty-four.html"
+      },{
+        "title": "PlugIn Incubation Program",
+        "excerpt":"Inviting startups to a unique Hardware Accelerator programme - Plugin Cycle 2 (1 year accelerated incubation program) To apply visit the program website  ","categories": ["startup"],
+        "tags": [],
+        "url": "http://localhost:4000/startup/2018/07/16/plugin.html"
+      },{
+        "title": "Coursedeck Internship",
+        "excerpt":"Internship for Electronics &amp; Communication Electrical &amp; Electronics About the internship:Selected candidates day-to-day responsibilities include: Design hardware/firmware Execute sensor study (along with coding) Develop application parameter measurement Develop algorithms for calibration of the sensorWho can apply:Number of internships available: 20Categories: Embedded Systems, Electronics, Engineering , IOT Register by filling this...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/16/coursedeck.html"
+      },{
+        "title": "EAST ASIA KOREA-JAPAN INTERNSHIP PROGRAM",
+        "excerpt":"he East Asia Korea-Japan internship program is a non-paid internship organized by the Korean NGO Asia Hope Camp Organization, and by the Japanese NGO Acopia Friendship International.Are you looking for a working experience in Asia? To travel in Korean or in Japan? To learn a new language or discover East...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/16/japan-internship.html"
+      },{
+        "title": "AIRBUS flyyourideas 2019",
+        "excerpt":"At the dawn of a new era in aerospace, with Fly Your Ideas, Airbus offers a unique opportunity for students worldwide to activate their pioneering spirit and innovate for the future. With support from Airbus, teams will tackle global challenges, harnessing the latest digital tools and technologies to create a...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/16/airbus.html"
       }]

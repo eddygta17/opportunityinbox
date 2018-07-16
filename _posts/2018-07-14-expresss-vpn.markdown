@@ -2,7 +2,7 @@
 layout: post
 title:  "The ExpressVPN Future of Privacy Scholarship"
 date:   2018-07-14 05:55:40 +0530
-categories: scholarchip competition
+categories: scholarship competition
 share: true
 ---
 
