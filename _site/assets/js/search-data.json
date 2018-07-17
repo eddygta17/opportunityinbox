@@ -415,9 +415,9 @@ var store = [{
         "url": "http://localhost:4000/job/2018/07/18/software-testengg.html"
       },{
         "title": "Associate Engineer at Eaton (Fresher)",
-        "excerpt":"Job Description As an Associate Engineer, the incumbent would be working on product or technology groups with design, development, testing or sustaining engineering responsibilities. They have to study, design, make changes to existing designs as per needs, Accumulate product/technology knowledge and assess systemic improvements &amp; sustenance. Plan their activities to...","categories": ["volunteer","internship"],
+        "excerpt":"Job Description As an Associate Engineer, the incumbent would be working on product or technology groups with design, development, testing or sustaining engineering responsibilities. They have to study, design, make changes to existing designs as per needs, Accumulate product/technology knowledge and assess systemic improvements &amp; sustenance. Plan their activities to...","categories": ["job"],
         "tags": [],
-        "url": "http://localhost:4000/volunteer/internship/2018/07/18/eaton.html"
+        "url": "http://localhost:4000/job/2018/07/18/eaton.html"
       },{
         "title": "InTech Olympiad 2019",
         "excerpt":"Quality of Engineering Education in India is a matter of concern for academicians, industries, and regulatory authorities. Limited exposure to industrial world, lack of experienced faculty members, and ineffective laboratory facilities in institutes add to this problem. Much is said about this on many expositions. The “Integrated Technologies Olympiad 2019”...","categories": ["competition"],

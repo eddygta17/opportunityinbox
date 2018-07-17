@@ -2,7 +2,7 @@
 layout: post
 title:  "Associate Engineer at Eaton (Fresher)"
 date:   2018-07-18 07:24:40 +0530
-categories: volunteer internship
+categories: job
 share: true
 ---
 # Job Description
