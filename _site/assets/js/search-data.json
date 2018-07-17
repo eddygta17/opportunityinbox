@@ -398,4 +398,34 @@ var store = [{
         "excerpt":"The last date to apply is Aug 31, 2018. MoHUA will engage students pursuing Under Graduate/Graduate/Post Graduate degree as Interns to help implementation of Smart City Projects in various States/Cities. The internship will be on unpaid basis for a period of 6 to 12 weeks. They will be given an...","categories": ["internship"],
         "tags": [],
         "url": "http://localhost:4000/internship/2018/07/16/smartcity.html"
+      },{
+        "title": "AMRUT Challenge",
+        "excerpt":"Deadline August 14 AMRUT Mission in partnership with National Institute of Urban Affairs (NIUA) has launched a one of its kind Technology Challenge. The Ministry of Housing and Urban Affairs (MoHUA) and National Institute of Urban Affairs (NIUA) have been entrusted to organize this technology challenge which will facilitate in...","categories": ["competition","startup"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/startup/2018/07/18/moha.html"
+      },{
+        "title": "Abhyuday IIT Bombay Campus Representative",
+        "excerpt":"Abhyuday, IIT Bombay is a student run organization working towards creating a sense of Social Responsibility and Leadership among the youth of India.College Representative Program (CR) is a student leader program in which we select socially active students throughout India and guide them towards social change. WHY DO WE HAVE...","categories": ["volunteer","internship"],
+        "tags": [],
+        "url": "http://localhost:4000/volunteer/internship/2018/07/18/abhyuday.html"
+      },{
+        "title": "Software Test Engineer Citrix (Fresher)",
+        "excerpt":"Primary Duties / Responsibilities Performs tasks involving programming/coding, troubleshooting and testing of software components Applies software process methodologies to complete assignments and ensure quality output Performs preliminary tests to verify the functionality, accuracy, and efficiency of developed or enhanced software Solicits input and expertise to carry out assignments correctly Establishes...","categories": ["job"],
+        "tags": [],
+        "url": "http://localhost:4000/job/2018/07/18/software-testengg.html"
+      },{
+        "title": "Associate Engineer at Eaton (Fresher)",
+        "excerpt":"Job Description As an Associate Engineer, the incumbent would be working on product or technology groups with design, development, testing or sustaining engineering responsibilities. They have to study, design, make changes to existing designs as per needs, Accumulate product/technology knowledge and assess systemic improvements &amp; sustenance. Plan their activities to...","categories": ["volunteer","internship"],
+        "tags": [],
+        "url": "http://localhost:4000/volunteer/internship/2018/07/18/eaton.html"
+      },{
+        "title": "InTech Olympiad 2019",
+        "excerpt":"Quality of Engineering Education in India is a matter of concern for academicians, industries, and regulatory authorities. Limited exposure to industrial world, lack of experienced faculty members, and ineffective laboratory facilities in institutes add to this problem. Much is said about this on many expositions. The “Integrated Technologies Olympiad 2019”...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/18/intech.html"
+      },{
+        "title": "IEEE Conference on Circuits and Systems in Digital Enterprise Technology",
+        "excerpt":"Submit papers by August 6 2018 Conference during December 21-22 2018 About the Conference There has been an explosion of research activities in Engineering and Technology with application to Digital Enterprise Technology in recent years. Such activities require inter-disciplinary collaborations and contributions from scientists, engineers, researchers, academicians and entrepreneurs. International...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/18/ieecfp.html"
       }]

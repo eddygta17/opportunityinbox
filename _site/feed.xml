@@ -7,6 +7,54 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>IEEE Conference on Circuits and Systems in Digital Enterprise Technology</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:26:40 +0530</pubDate>
+        <link>http://localhost:4000//conference/2018/07/18/ieecfp.html</link>
+        <guid isPermaLink="true">http://localhost:4000//conference/2018/07/18/ieecfp.html</guid>
+      </item>
+    
+      <item>
+        <title>InTech Olympiad 2019</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:25:40 +0530</pubDate>
+        <link>http://localhost:4000//competition/2018/07/18/intech.html</link>
+        <guid isPermaLink="true">http://localhost:4000//competition/2018/07/18/intech.html</guid>
+      </item>
+    
+      <item>
+        <title>Associate Engineer at Eaton (Fresher)</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:24:40 +0530</pubDate>
+        <link>http://localhost:4000//volunteer/internship/2018/07/18/eaton.html</link>
+        <guid isPermaLink="true">http://localhost:4000//volunteer/internship/2018/07/18/eaton.html</guid>
+      </item>
+    
+      <item>
+        <title>Software Test Engineer Citrix (Fresher)</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:21:40 +0530</pubDate>
+        <link>http://localhost:4000//job/2018/07/18/software-testengg.html</link>
+        <guid isPermaLink="true">http://localhost:4000//job/2018/07/18/software-testengg.html</guid>
+      </item>
+    
+      <item>
+        <title>Abhyuday IIT Bombay Campus Representative</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:20:40 +0530</pubDate>
+        <link>http://localhost:4000//volunteer/internship/2018/07/18/abhyuday.html</link>
+        <guid isPermaLink="true">http://localhost:4000//volunteer/internship/2018/07/18/abhyuday.html</guid>
+      </item>
+    
+      <item>
+        <title>AMRUT Challenge</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:17:40 +0530</pubDate>
+        <link>http://localhost:4000//competition/startup/2018/07/18/moha.html</link>
+        <guid isPermaLink="true">http://localhost:4000//competition/startup/2018/07/18/moha.html</guid>
+      </item>
+    
+      <item>
         <title>India Smart Cities Internship (ISCI) Program</title>
         
         <pubDate>Mon, 16 Jul 2018 08:27:40 +0530</pubDate>
@@ -36,54 +84,6 @@
         <pubDate>Mon, 16 Jul 2018 05:47:40 +0530</pubDate>
         <link>http://localhost:4000//internship/2018/07/16/coursedeck.html</link>
         <guid isPermaLink="true">http://localhost:4000//internship/2018/07/16/coursedeck.html</guid>
-      </item>
-    
-      <item>
-        <title>PlugIn Incubation Program</title>
-        
-        <pubDate>Mon, 16 Jul 2018 05:45:40 +0530</pubDate>
-        <link>http://localhost:4000//startup/2018/07/16/plugin.html</link>
-        <guid isPermaLink="true">http://localhost:4000//startup/2018/07/16/plugin.html</guid>
-      </item>
-    
-      <item>
-        <title>Social Business Champ</title>
-        
-        <pubDate>Mon, 16 Jul 2018 05:37:40 +0530</pubDate>
-        <link>http://localhost:4000//startup/2018/07/16/twenty-four.html</link>
-        <guid isPermaLink="true">http://localhost:4000//startup/2018/07/16/twenty-four.html</guid>
-      </item>
-    
-      <item>
-        <title>Junior Research Fellowships M.Sc/B.Tech</title>
-        
-        <pubDate>Mon, 16 Jul 2018 05:31:40 +0530</pubDate>
-        <link>http://localhost:4000//research/scholarship/2018/07/16/jrf-drdo.html</link>
-        <guid isPermaLink="true">http://localhost:4000//research/scholarship/2018/07/16/jrf-drdo.html</guid>
-      </item>
-    
-      <item>
-        <title>International Conference on Security, Privacy, and Applied Cryptography Engg.</title>
-        
-        <pubDate>Mon, 16 Jul 2018 05:29:40 +0530</pubDate>
-        <link>http://localhost:4000//conference/2018/07/16/confiitk.html</link>
-        <guid isPermaLink="true">http://localhost:4000//conference/2018/07/16/confiitk.html</guid>
-      </item>
-    
-      <item>
-        <title>Summer School on Antenna &amp; Microwave Engineering</title>
-        
-        <pubDate>Mon, 16 Jul 2018 05:28:40 +0530</pubDate>
-        <link>http://localhost:4000//learning/training/2018/07/16/susame.html</link>
-        <guid isPermaLink="true">http://localhost:4000//learning/training/2018/07/16/susame.html</guid>
-      </item>
-    
-      <item>
-        <title>SHELL ECO-MARATHON INDIA</title>
-        
-        <pubDate>Mon, 16 Jul 2018 05:27:40 +0530</pubDate>
-        <link>http://localhost:4000//competition/2018/07/16/shell-ecomara.html</link>
-        <guid isPermaLink="true">http://localhost:4000//competition/2018/07/16/shell-ecomara.html</guid>
       </item>
     
   </channel>

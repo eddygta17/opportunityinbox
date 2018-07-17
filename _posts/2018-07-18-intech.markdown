@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "InTech Olympiad 2019"
+date:   2018-07-18 07:25:40 +0530
+categories: competition
+share: true
+---
+Quality of Engineering Education in India is a matter of concern for academicians, industries, and regulatory authorities. Limited exposure to industrial world, lack of experienced faculty members, and ineffective laboratory facilities in institutes add to this problem. Much is said about this on many expositions. The "Integrated Technologies Olympiad 2019" is a step towards bridging the gap between demands from industries and existing engineering curriculum The very nature of the competition will certainly help students to acquire "Learning to Learn" skill, which is utmost important for survival in this industrial world. The competition has been designed after an elaborate discussion with industry partners and academicians. This competition will give the students hands-on experience of solving industrial problems with mentoring from experts.
+
+# Apply online July 20 to 31 , 2018
+
+# [Apply Now](https://portal.coepvlab.ac.in/InTechOlympiad/registration)

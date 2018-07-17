@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "IEEE Conference on Circuits and Systems in Digital Enterprise Technology"
+date:   2018-07-18 07:26:40 +0530
+categories: conference
+share: true
+---
+# Submit papers by August 6 2018
+# Conference during December 21-22 2018
+
+
+### About the Conference
+
+There has been an explosion of research activities in Engineering and Technology with application to Digital Enterprise Technology in recent years. Such activities require inter-disciplinary collaborations and contributions from scientists, engineers, researchers, academicians and entrepreneurs.
+
+International Conference on Circuits and Systems in Digital Enterprise Technology (ICCSDET-2018) is the premier forum for exchanging ideas and interacting with experts from diverse fields such as Circuits, System and their applications.
+
+This Conference will consist of tutorials, plenary lectures, oral and poster presentations. ICCSDET-2018 will focus on recent trends, emerging technologies and advances in all aspects of Circuits, Systems, Signals, Mathematical Methods, Computational Methods, and its applications in various Digital Enterprise Technologies.
+
+### Location
+
+SAINTGITS College of Engineering, Pathamuttam -Post,
+Kottayam, Kerala.
+
+### Call for Papers
+
+Prospective authors are invited to submit full length original research papers (which are not submitted or published or not under consideration anywhere in other conferences / journals). The ICCSDET-2018 proceedings will be indexed and published on IEEE Xplore Digital Library.
+
+
+# [Papers are to be submitted by Easychair link given on this page.](http://www.iccsdet.com/paper-submission/)
+

@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "AMRUT Challenge"
+date:   2018-07-18 07:17:40 +0530
+categories: competition startup
+share: true
+---
+### Deadline August 14
+AMRUT Mission in partnership with National Institute of Urban Affairs (NIUA) has launched a one of its kind Technology Challenge. The Ministry of Housing and Urban Affairs (MoHUA) and National Institute of Urban Affairs (NIUA) have been entrusted to organize this technology challenge which will facilitate in scoping, scaling and catalyzing suitable techniques and whole-of-system solutions that will eliminate the need for human entry for cleaning of sewer and septic tanks.
+
+Proposals are invited by the MoHUA, Government of India, from interested innovators, individuals, consortium partners, companies, academic institutions, research and development centers, civil society organizations (NGOs), parastatals or municipal bodies, to provide innovative technical solutions which eliminate the need for human entry into septic tanks and sewers.
+
+The Challenge shall be conducted for two separate categories.
+
+· Category A – Technological solutions for cleaning and maintenance of sewerage systems which eliminate need for human entry.
+
+· Category B – Technological solutions for cleaning and maintenance of septic tanks which eliminate need for human entry.
+
+The challenge is open from 4th July 2018 and interested applicants will be able to apply until 14th August 2018 (17:30 hrs. IST).
+
+# [The challenge is live and interested applicants can apply here.](https://smartnet.niua.org/amrut-tech-challenge)
+
+The winners will be given cash awards, 1st Prize winners in each of the above categories will be presented cash award and citation by the Hon’ble Prime Minister on 2nd October 2018.
+
+Winners will be provided an opportunity to pilot test the solution in select cities in India. During the pilot test period, mentoring support will be provided to the selected candidate. The winning solutions will be facilitated for empanelment on the Government e-Marketplace (GeM) portal for Government procurement besides recommending to States/ ULBs.
+
+![poster for amrut](/images/amrut.jpg)
