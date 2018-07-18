@@ -428,4 +428,14 @@ var store = [{
         "excerpt":"Submit papers by August 6 2018 Conference during December 21-22 2018 About the Conference There has been an explosion of research activities in Engineering and Technology with application to Digital Enterprise Technology in recent years. Such activities require inter-disciplinary collaborations and contributions from scientists, engineers, researchers, academicians and entrepreneurs. International...","categories": ["conference"],
         "tags": [],
         "url": "http://localhost:4000/conference/2018/07/18/ieecfp.html"
+      },{
+        "title": "International Life in Space Workshop",
+        "excerpt":"Indian Astrobiology Research Centre’s International Life in Space Workshop Requisites : Carry an umbrella (it’s monsoon) P. S. No prior requirements, no technical jargons, not a moment of lull ..Perks :Session by IARC Head Scientist - Pushkar Ganesh Vaidya. Certificate with official logos.Special Handouts. Discount code for International Space Diploma...","categories": ["training","learning"],
+        "tags": [],
+        "url": "http://localhost:4000/training/learning/2018/07/19/workshop.html"
+      },{
+        "title": "Mustafa 2018 Volunteer",
+        "excerpt":"There are some people in life that make you laugh a little louder , Smile a bit bigger And live just little bit betterOn the beloved occasion of friendship day Arsen group has embraced a platform for the people to cherish moments togetherArsen Group is presenting you the most celebrated...","categories": ["volunteer"],
+        "tags": [],
+        "url": "http://localhost:4000/volunteer/2018/07/19/volmust.html"
       }]

@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-OpportunityInbox is a platform for studetnts from various fields to enable students to engage in much more academics and have a wholesome experience.
+OpportunityInbox is a platform for students built by students.
+
+We aim to connect students with various opportunities around them.
 
 
-##### Get in touch with us on:
-##### contact@opportunityinbox.com
+We are a student driven initiative. __For and by__ .
+
+ 
+Contact us at,
+
+contact@opportunityinbox.com

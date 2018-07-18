@@ -8,12 +8,12 @@
 #- title: Posts
 #  url: /posts/
 
-#- title: Contribute
-#  url: /contribute/
+- title: Contribute
+  url: /contribute/
 # - title: Tags
 #   url: /tags/
-#- title: About
-#  url: /about/
+- title: About
+  url: /about/
 - title: Subscribe
   url: https://feedburner.google.com/fb/a/mailverify?uri=opportunityinbox&amp;loc=en_US
 

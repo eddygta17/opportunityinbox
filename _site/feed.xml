@@ -7,6 +7,22 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Mustafa 2018 Volunteer</title>
+        
+        <pubDate>Thu, 19 Jul 2018 07:27:40 +0530</pubDate>
+        <link>http://localhost:4000//volunteer/2018/07/19/volmust.html</link>
+        <guid isPermaLink="true">http://localhost:4000//volunteer/2018/07/19/volmust.html</guid>
+      </item>
+    
+      <item>
+        <title>International Life in Space Workshop</title>
+        
+        <pubDate>Thu, 19 Jul 2018 07:26:40 +0530</pubDate>
+        <link>http://localhost:4000//training/learning/2018/07/19/workshop.html</link>
+        <guid isPermaLink="true">http://localhost:4000//training/learning/2018/07/19/workshop.html</guid>
+      </item>
+    
+      <item>
         <title>IEEE Conference on Circuits and Systems in Digital Enterprise Technology</title>
         
         <pubDate>Wed, 18 Jul 2018 07:26:40 +0530</pubDate>
@@ -68,22 +84,6 @@
         <pubDate>Mon, 16 Jul 2018 06:47:40 +0530</pubDate>
         <link>http://localhost:4000//competition/2018/07/16/airbus.html</link>
         <guid isPermaLink="true">http://localhost:4000//competition/2018/07/16/airbus.html</guid>
-      </item>
-    
-      <item>
-        <title>EAST ASIA KOREA-JAPAN INTERNSHIP PROGRAM</title>
-        
-        <pubDate>Mon, 16 Jul 2018 06:27:40 +0530</pubDate>
-        <link>http://localhost:4000//internship/2018/07/16/japan-internship.html</link>
-        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/16/japan-internship.html</guid>
-      </item>
-    
-      <item>
-        <title>Coursedeck Internship</title>
-        
-        <pubDate>Mon, 16 Jul 2018 05:47:40 +0530</pubDate>
-        <link>http://localhost:4000//internship/2018/07/16/coursedeck.html</link>
-        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/16/coursedeck.html</guid>
       </item>
     
   </channel>
