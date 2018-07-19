@@ -23,13 +23,14 @@ layout: default
 
       <div class="page-content">
         <div class="e-content">
+            {% include subscribe.html %}
           {{ content }}
         </div>
 
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
-        {% include subscribe.html %}
+        <!--{% include subscribe.html %}-->
 
         {% if site.disqus.shortname %}
           {% include disqus-comments.html %}

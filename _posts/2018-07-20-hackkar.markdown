@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Opportunity to Work with Startups"
+date:   2018-07-20 06:26:40 +0530
+categories: internship job
+share: true
+---
+__Are you a web developer? Looking for a great programming job? Tired of solving imaginary algorithmic problems for it?__
+
+Hackkar is the right platform for you. Hackkar helps you get great programming jobs by solving real world problems. Because we believe engineers do more than algorithms.
+
+Still wondering whether you have to spend a whole month solving the real world task? Hackkar coding tasks are designed to be solvable in 4 - 6 hours. 
+
+__Sieze the opportunity__, [sign up now](https://hackkar.com/)
+
+![poster for hackkar](/images/hackkar.jpg)

@@ -7,6 +7,62 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Be a part of Opportunity Inbox</title>
+        
+        <pubDate>Fri, 20 Jul 2018 07:30:40 +0530</pubDate>
+        <link>http://localhost:4000//2018/07/20/opportunityinbox.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/07/20/opportunityinbox.html</guid>
+      </item>
+    
+      <item>
+        <title>International Blockchain Congress 2018</title>
+        
+        <pubDate>Fri, 20 Jul 2018 06:30:40 +0530</pubDate>
+        <link>http://localhost:4000//conference/2018/07/20/ibc.html</link>
+        <guid isPermaLink="true">http://localhost:4000//conference/2018/07/20/ibc.html</guid>
+      </item>
+    
+      <item>
+        <title>DevConf Bangalore - RedHat</title>
+        
+        <pubDate>Fri, 20 Jul 2018 06:30:40 +0530</pubDate>
+        <link>http://localhost:4000//conference/2018/07/20/devconf.html</link>
+        <guid isPermaLink="true">http://localhost:4000//conference/2018/07/20/devconf.html</guid>
+      </item>
+    
+      <item>
+        <title>Free Seminar on Machine Learning</title>
+        
+        <pubDate>Fri, 20 Jul 2018 06:28:40 +0530</pubDate>
+        <link>http://localhost:4000//learning/training/2018/07/20/seminar.html</link>
+        <guid isPermaLink="true">http://localhost:4000//learning/training/2018/07/20/seminar.html</guid>
+      </item>
+    
+      <item>
+        <title>Three Day Workshop on Machine Learning</title>
+        
+        <pubDate>Fri, 20 Jul 2018 06:28:40 +0530</pubDate>
+        <link>http://localhost:4000//learning/training/2018/07/20/ml.html</link>
+        <guid isPermaLink="true">http://localhost:4000//learning/training/2018/07/20/ml.html</guid>
+      </item>
+    
+      <item>
+        <title>K-JUG Monthly Meetup</title>
+        
+        <pubDate>Fri, 20 Jul 2018 06:27:40 +0530</pubDate>
+        <link>http://localhost:4000//learning/training/2018/07/20/kjug.html</link>
+        <guid isPermaLink="true">http://localhost:4000//learning/training/2018/07/20/kjug.html</guid>
+      </item>
+    
+      <item>
+        <title>Opportunity to Work with Startups</title>
+        
+        <pubDate>Fri, 20 Jul 2018 06:26:40 +0530</pubDate>
+        <link>http://localhost:4000//internship/job/2018/07/20/hackkar.html</link>
+        <guid isPermaLink="true">http://localhost:4000//internship/job/2018/07/20/hackkar.html</guid>
+      </item>
+    
+      <item>
         <title>Mustafa 2018 Volunteer</title>
         
         <pubDate>Thu, 19 Jul 2018 07:27:40 +0530</pubDate>
@@ -28,62 +84,6 @@
         <pubDate>Wed, 18 Jul 2018 07:26:40 +0530</pubDate>
         <link>http://localhost:4000//conference/2018/07/18/ieecfp.html</link>
         <guid isPermaLink="true">http://localhost:4000//conference/2018/07/18/ieecfp.html</guid>
-      </item>
-    
-      <item>
-        <title>InTech Olympiad 2019</title>
-        
-        <pubDate>Wed, 18 Jul 2018 07:25:40 +0530</pubDate>
-        <link>http://localhost:4000//competition/2018/07/18/intech.html</link>
-        <guid isPermaLink="true">http://localhost:4000//competition/2018/07/18/intech.html</guid>
-      </item>
-    
-      <item>
-        <title>Associate Engineer at Eaton (Fresher)</title>
-        
-        <pubDate>Wed, 18 Jul 2018 07:24:40 +0530</pubDate>
-        <link>http://localhost:4000//job/2018/07/18/eaton.html</link>
-        <guid isPermaLink="true">http://localhost:4000//job/2018/07/18/eaton.html</guid>
-      </item>
-    
-      <item>
-        <title>Software Test Engineer Citrix (Fresher)</title>
-        
-        <pubDate>Wed, 18 Jul 2018 07:21:40 +0530</pubDate>
-        <link>http://localhost:4000//job/2018/07/18/software-testengg.html</link>
-        <guid isPermaLink="true">http://localhost:4000//job/2018/07/18/software-testengg.html</guid>
-      </item>
-    
-      <item>
-        <title>Abhyuday IIT Bombay Campus Representative</title>
-        
-        <pubDate>Wed, 18 Jul 2018 07:20:40 +0530</pubDate>
-        <link>http://localhost:4000//volunteer/internship/2018/07/18/abhyuday.html</link>
-        <guid isPermaLink="true">http://localhost:4000//volunteer/internship/2018/07/18/abhyuday.html</guid>
-      </item>
-    
-      <item>
-        <title>AMRUT Challenge</title>
-        
-        <pubDate>Wed, 18 Jul 2018 07:17:40 +0530</pubDate>
-        <link>http://localhost:4000//competition/startup/2018/07/18/moha.html</link>
-        <guid isPermaLink="true">http://localhost:4000//competition/startup/2018/07/18/moha.html</guid>
-      </item>
-    
-      <item>
-        <title>India Smart Cities Internship (ISCI) Program</title>
-        
-        <pubDate>Mon, 16 Jul 2018 08:27:40 +0530</pubDate>
-        <link>http://localhost:4000//internship/2018/07/16/smartcity.html</link>
-        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/16/smartcity.html</guid>
-      </item>
-    
-      <item>
-        <title>AIRBUS flyyourideas 2019</title>
-        
-        <pubDate>Mon, 16 Jul 2018 06:47:40 +0530</pubDate>
-        <link>http://localhost:4000//competition/2018/07/16/airbus.html</link>
-        <guid isPermaLink="true">http://localhost:4000//competition/2018/07/16/airbus.html</guid>
       </item>
     
   </channel>

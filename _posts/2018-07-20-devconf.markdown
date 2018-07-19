@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "DevConf Bangalore - RedHat"
+date:   2018-07-20 06:30:40 +0530
+categories: conference
+share: true
+---
+DevConf.in 2018 is the second annual Developers' Conference to be organised by Red Hat in Bengaluru, India. It is meant to provide a platform to the local FOSS community participants to come together and engage in the knowledge sharing through technical talks, workshops, panel discussions, hackathon and such activities.
+
+__When: August 4-5, 2018__
+
+__Venue: Christ University - Bengaluru, India__
+
+You should consider attending this DevConf event if you are:
+
+- A developer
+- A technology architect
+- An IT consultant
+- An IT student or a teacher from an IT university/faculty
+- Or simply an IT enthusiast interested in the latest trends in open source and emerging digital technologies
+
+
+DevConf events are __free__, without admission or ticket charge. On-line registration is required though.
+
+Talks, presentations, workshops (etc) will all be in English.
+
+[Check here for registraion.](https://devconf.info/in/2018/registration)
+
+[Check here for program schedule.](https://devconf.info/in/2018/schedule)

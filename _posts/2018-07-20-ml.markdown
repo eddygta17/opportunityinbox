@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Three Day Workshop on Machine Learning"
+date:   2018-07-20 06:28:40 +0530
+categories: learning training
+share: true
+---
+Department of Computer Application, CUSAT and Democratic Alliance for Knowledge Freedom jointly organising three day workshop on Machine Learning. The workshop will be lead by Free Software Activists , Research scholars from IITs and Data Scientists from Industry. The workshop will cover Basics, Machine learning using python and advanced topics like Deep Learning.
+
+### Seats are currently full
+
+# [Fill this form for being informed of next workshop.](https://docs.google.com/forms/d/e/1FAIpQLSfrxWcjElQUA09hVzGjVIR8dSWO5araDRBws6hZqVswAQ4jIA/viewform)
+
+[__For more information__](http://camp.dakf.in/)
+
+![poster for ml camp](/images/campml.jpg)

@@ -438,4 +438,39 @@ var store = [{
         "excerpt":"There are some people in life that make you laugh a little louder , Smile a bit bigger And live just little bit betterOn the beloved occasion of friendship day Arsen group has embraced a platform for the people to cherish moments togetherArsen Group is presenting you the most celebrated...","categories": ["volunteer"],
         "tags": [],
         "url": "http://localhost:4000/volunteer/2018/07/19/volmust.html"
+      },{
+        "title": "Opportunity to Work with Startups",
+        "excerpt":"Are you a web developer? Looking for a great programming job? Tired of solving imaginary algorithmic problems for it? Hackkar is the right platform for you. Hackkar helps you get great programming jobs by solving real world problems. Because we believe engineers do more than algorithms. Still wondering whether you...","categories": ["internship","job"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/job/2018/07/20/hackkar.html"
+      },{
+        "title": "K-JUG Monthly Meetup",
+        "excerpt":"Are you learning Java or are interested in learning it. Interact with Java users at this meetup and gain their valuable insights from years of experince. This month we are discussing Blockchain &amp; Machine Learning! Blockchain: Bitcoin to Dapps Machine Learning Zero Hype IntroIt’s a golden opportunity for all Java...","categories": ["learning","training"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/training/2018/07/20/kjug.html"
+      },{
+        "title": "Three Day Workshop on Machine Learning",
+        "excerpt":"Department of Computer Application, CUSAT and Democratic Alliance for Knowledge Freedom jointly organising three day workshop on Machine Learning. The workshop will be lead by Free Software Activists , Research scholars from IITs and Data Scientists from Industry. The workshop will cover Basics, Machine learning using python and advanced topics...","categories": ["learning","training"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/training/2018/07/20/ml.html"
+      },{
+        "title": "Free Seminar on Machine Learning",
+        "excerpt":"Two hours session on Machine Learning, which will give an insight on Machine Learning and its importance. When? July 22, Sunday at 10.00 am IST July 29, Sunday at 10.00 am IST August 05 , Sunday at 10.00 am ISTSession Agenda: What is Machine Learning? - Future of Data science...","categories": ["learning","training"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/training/2018/07/20/seminar.html"
+      },{
+        "title": "DevConf Bangalore - RedHat",
+        "excerpt":"DevConf.in 2018 is the second annual Developers’ Conference to be organised by Red Hat in Bengaluru, India. It is meant to provide a platform to the local FOSS community participants to come together and engage in the knowledge sharing through technical talks, workshops, panel discussions, hackathon and such activities. When:...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/20/devconf.html"
+      },{
+        "title": "International Blockchain Congress 2018",
+        "excerpt":"Engineering Students who are interested in Blockchain and technology are welcomed to International Blockchain Congress 2018. The International Blockchain Congress 2018 will be the largest congregation of innovators, businesses, technologists, regulators, startups and enthusiasts to pave the way for an open and transparent blockchain powered world. The inaugural edition on...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/20/ibc.html"
+      },{
+        "title": "Be a part of Opportunity Inbox",
+        "excerpt":"OpportunityInbox is looking for students to contribute and be a part of this initiative. If you want to be a part of this project, stay tuned we will announce details next week. Until then spread these opportunities. ;-) ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/2018/07/20/opportunityinbox.html"
       }]

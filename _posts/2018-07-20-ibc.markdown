@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "International Blockchain Congress 2018"
+date:   2018-07-20 06:30:40 +0530
+categories: conference
+share: true
+---
+Engineering Students who are interested in Blockchain and technology are welcomed to International Blockchain Congress 2018.
+
+The International Blockchain Congress 2018 will be the largest congregation of innovators, businesses, technologists, regulators, startups and enthusiasts to pave the way for an open and transparent blockchain powered world. 
+The inaugural edition on the __3rd and 4th of August__ will take place in __HICC, Hyderabad__, Telangana’s thriving tech hub and one of the fastest growing markets for blockchain technology.
+
+[Please get registered yourself for IBC - 2018 by filling this form](https://goo.gl/forms/bPfg8dP9U0L0s2th2)

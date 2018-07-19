@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "K-JUG Monthly Meetup"
+date:   2018-07-20 06:27:40 +0530
+categories: learning training
+share: true
+---
+Are you learning Java or are interested in learning it.
+
+Interact with Java users at this meetup and gain their valuable insights from years of experince.
+
+This month we are discussing Blockchain & Machine Learning!
+
+1. Blockchain: Bitcoin to Dapps
+2. Machine Learning Zero Hype Intro
+
+It's a golden opportunity for all Java Enthusiasts to listen from the true industry experts!
+
+## When?
+
+Sat Jul 21
+
+2:00 PM ‐ 5:00 PM
+
+## Where?
+
+Kerala Technology Innovation Zone (KTIZ)
+
+Kinfra Hi-Tech Park, HMT Colony P.O.Kalamassery, Kochi, Kerala 683503, Kochi
+## [Register for the event here.](http://bit.do/KJUG006)
+
+![poster for kjug](/images/kjug.jpg)
