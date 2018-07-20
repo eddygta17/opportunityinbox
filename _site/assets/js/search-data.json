@@ -469,8 +469,28 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/conference/2018/07/20/ibc.html"
       },{
-        "title": "Be a part of Opportunity Inbox",
-        "excerpt":"OpportunityInbox is looking for students to contribute and be a part of this initiative. If you want to be a part of this project, stay tuned we will announce details next week. Until then spread these opportunities. ;-) ","categories": [],
+        "title": "Graana Creative Internship",
+        "excerpt":"Be Creative &amp; Drop Resume at careers@graana.com  ","categories": ["internship"],
         "tags": [],
-        "url": "http://localhost:4000/2018/07/20/opportunityinbox.html"
+        "url": "http://localhost:4000/internship/2018/07/21/graana.html"
+      },{
+        "title": "Sanfoundry Internship",
+        "excerpt":"Sanfoundry offers Summer internships, Winter internships, Full-semester internships and Anytime virtual internships to Students of All branches of Engineering (BE / B.Tech), IT and Science students. Interns work here for their summer, winter, full semester or any-month-of-the year internship programs and contribute a significant piece of work which adds a...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/21/sanfoundry.html"
+      },{
+        "title": "Data Analytics Global Internship",
+        "excerpt":"Anyone can Apply. No Prior Knowledge Needed This is a remote internship. This means you will do your assigned work, long-distance, as per your own convenience. You will interact with your Internship Manager by means of email, phone and/or other digital media. Top 5 selected Interns selected based on performance...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/21/takenmind.html"
+      },{
+        "title": "ShareChat Internship",
+        "excerpt":"ShareChat is hiring interns for the following roles. Backend/Android/Machine Learning intern - Compensation - 75k per month Web Developer intern - Compensation - 50k per monthComplete internship role description can be found here. Eligibility Cricteria: The internships are only open for the current final year students who want to get...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/21/schatinternship.html"
+      },{
+        "title": "Be a part of Opportunity Inbox",
+        "excerpt":"OpportunityInbox is looking for students to contribute and be a part of this initiative. If you want to be a part of this project, stay tuned we will announce details next week. Until then spread these opportunities. ;-) Can’t wait? Send a mail to joseph@opportunityinbox.com , (Keep “YourName - Willing...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/2018/07/21/opportunityinbox.html"
       }]
