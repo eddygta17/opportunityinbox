@@ -483,4 +483,9 @@ var store = [{
         "excerpt":"ShareChat is hiring interns for the following roles. Backend/Android/Machine Learning intern - Compensation - 75k per month Web Developer intern - Compensation - 50k per monthComplete internship role description can be found here. Eligibility Cricteria: The internships are only open for the current final year students who want to get...","categories": ["internship"],
         "tags": [],
         "url": "http://localhost:4000/internship/2018/07/21/schatinternship.html"
+      },{
+        "title": "Be a part of Opportunity Inbox",
+        "excerpt":"OpportunityInbox is looking for students to contribute and be a part of this initiative. If you want to be a part of this project, stay tuned we will announce details next week. Until then spread these opportunities. ;-) Can’t wait? Send a mail to joseph@opportunityinbox.com , (Keep “YourName - Willing...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/2018/07/21/opportunityinbox.html"
       }]
