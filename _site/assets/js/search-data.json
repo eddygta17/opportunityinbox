@@ -479,11 +479,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/internship/2018/07/21/sanfoundry.html"
       },{
-        "title": "Data Analytics Global Internship",
-        "excerpt":"Anyone can Apply. No Prior Knowledge Needed This is a remote internship. This means you will do your assigned work, long-distance, as per your own convenience. You will interact with your Internship Manager by means of email, phone and/or other digital media. Top 5 selected Interns selected based on performance...","categories": ["internship"],
-        "tags": [],
-        "url": "http://localhost:4000/internship/2018/07/21/takenmind.html"
-      },{
         "title": "ShareChat Internship",
         "excerpt":"ShareChat is hiring interns for the following roles. Backend/Android/Machine Learning intern - Compensation - 75k per month Web Developer intern - Compensation - 50k per monthComplete internship role description can be found here. Eligibility Cricteria: The internships are only open for the current final year students who want to get...","categories": ["internship"],
         "tags": [],

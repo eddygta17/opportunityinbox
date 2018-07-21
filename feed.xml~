@@ -8,12 +8,7 @@ layout: none
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-        <item><title>OpportunityInbox currently only has a limited number of viewers, spread this joy to everyone , share OpportunityInbox with your firends.</title>
-<link>whatsapp://send?text=Opportunity%20Inbox%20brings%20opportunites%20to%20your%20inbox.%20Visit%20https%3A%2F%2Fopportunityinbox.com</link>
-        <guid isPermaLink="true">whatsapp://send?text=Opportunity%20Inbox%20brings%20opportunites%20to%20your%20inbox.%20Visit%20https%3A%2F%2Fopportunityinbox.com</guid>
-</item>
-
-    {% for post in site.posts limit:15 %}
+    {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         
@@ -24,4 +19,3 @@ layout: none
     {% endfor %}
   </channel>
 </rss>
-       

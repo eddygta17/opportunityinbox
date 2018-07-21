@@ -5,6 +5,11 @@
     <description>Bringing opportunities to students</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+        <item><title>OpportunityInbox currently only has a limited number of viewers, spread this joy to everyone , share OpportunityInbox with your firends.</title>
+<link>whatsapp://send?text=Opportunity%20Inbox%20brings%20opportunites%20to%20your%20inbox.%20Visit%20https%3A%2F%2Fopportunityinbox.com</link>
+        <guid isPermaLink="true">whatsapp://send?text=Opportunity%20Inbox%20brings%20opportunites%20to%20your%20inbox.%20Visit%20https%3A%2F%2Fopportunityinbox.com</guid>
+</item>
+
     
       <item>
         <title>Be a part of Opportunity Inbox</title>
@@ -20,14 +25,6 @@
         <pubDate>Sat, 21 Jul 2018 06:55:40 +0530</pubDate>
         <link>http://localhost:4000//internship/2018/07/21/schatinternship.html</link>
         <guid isPermaLink="true">http://localhost:4000//internship/2018/07/21/schatinternship.html</guid>
-      </item>
-    
-      <item>
-        <title>Data Analytics Global Internship</title>
-        
-        <pubDate>Sat, 21 Jul 2018 06:43:40 +0530</pubDate>
-        <link>http://localhost:4000//internship/2018/07/21/takenmind.html</link>
-        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/21/takenmind.html</guid>
       </item>
     
       <item>
@@ -86,5 +83,54 @@
         <guid isPermaLink="true">http://localhost:4000//learning/training/2018/07/20/kjug.html</guid>
       </item>
     
+      <item>
+        <title>Opportunity to Work with Startups</title>
+        
+        <pubDate>Fri, 20 Jul 2018 06:26:40 +0530</pubDate>
+        <link>http://localhost:4000//internship/job/2018/07/20/hackkar.html</link>
+        <guid isPermaLink="true">http://localhost:4000//internship/job/2018/07/20/hackkar.html</guid>
+      </item>
+    
+      <item>
+        <title>Mustafa 2018 Volunteer</title>
+        
+        <pubDate>Thu, 19 Jul 2018 07:27:40 +0530</pubDate>
+        <link>http://localhost:4000//volunteer/2018/07/19/volmust.html</link>
+        <guid isPermaLink="true">http://localhost:4000//volunteer/2018/07/19/volmust.html</guid>
+      </item>
+    
+      <item>
+        <title>International Life in Space Workshop</title>
+        
+        <pubDate>Thu, 19 Jul 2018 07:26:40 +0530</pubDate>
+        <link>http://localhost:4000//training/learning/2018/07/19/workshop.html</link>
+        <guid isPermaLink="true">http://localhost:4000//training/learning/2018/07/19/workshop.html</guid>
+      </item>
+    
+      <item>
+        <title>IEEE Conference on Circuits and Systems in Digital Enterprise Technology</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:26:40 +0530</pubDate>
+        <link>http://localhost:4000//conference/2018/07/18/ieecfp.html</link>
+        <guid isPermaLink="true">http://localhost:4000//conference/2018/07/18/ieecfp.html</guid>
+      </item>
+    
+      <item>
+        <title>InTech Olympiad 2019</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:25:40 +0530</pubDate>
+        <link>http://localhost:4000//competition/2018/07/18/intech.html</link>
+        <guid isPermaLink="true">http://localhost:4000//competition/2018/07/18/intech.html</guid>
+      </item>
+    
+      <item>
+        <title>Associate Engineer at Eaton (Fresher)</title>
+        
+        <pubDate>Wed, 18 Jul 2018 07:24:40 +0530</pubDate>
+        <link>http://localhost:4000//job/2018/07/18/eaton.html</link>
+        <guid isPermaLink="true">http://localhost:4000//job/2018/07/18/eaton.html</guid>
+      </item>
+    
   </channel>
 </rss>
+       
