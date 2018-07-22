@@ -488,4 +488,9 @@ var store = [{
         "excerpt":"OpportunityInbox is looking for students to contribute and be a part of this initiative. If you want to be a part of this project, stay tuned we will announce details next week. Until then spread these opportunities. ;-) Can’t wait? Send a mail to joseph@opportunityinbox.com , (Keep “YourName - Willing...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/2018/07/21/opportunityinbox.html"
+      },{
+        "title": "Community Manager at Blockchain Company",
+        "excerpt":"You or your friends might be interested in this exciting job below: JOB PROFILE / JD: Exciting Community Management Work at Innovative Blockchain Company: Full Time Position. Working from state of the art InfoPark, Cochin. Compensation Range: 10 - 30k Rupees/Month (Exact compensation defined and given at the office interview...","categories": ["job"],
+        "tags": [],
+        "url": "http://localhost:4000/job/2018/07/22/communitymanager.html"
       }]
