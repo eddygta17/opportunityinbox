@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AngelHack Global Hackathon"
-date:   2018-07-22 04:39:40 +0530
+date:   2018-07-22 07:39:40 +0530
 categories: hackathon
 share: true
 ---

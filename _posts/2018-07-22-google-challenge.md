@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Online Marketing Challenge"
-date:   2018-07-22 04:42:40 +0530
+date:   2018-07-22 07:42:40 +0530
 categories: competition
 share: true
 ---
