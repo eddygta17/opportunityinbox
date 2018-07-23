@@ -4,7 +4,7 @@
 
 layout: home
 ---
-[Twitter](https://twitter.com/opinbox)   [Telegram](https://t.me/opinbox)   [Facebook](https://www.facebook.com/opinbox/)
+As per popular demand, we have engaged on the  following soical platforms [Twitter](https://twitter.com/opinbox)   [Telegram](https://t.me/opinbox)   [Facebook](https://www.facebook.com/opinbox/)
 
 
 __Updates__
