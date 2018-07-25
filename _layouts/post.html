@@ -20,16 +20,10 @@ layout: default
         {% include page-categories.html %}
         {% include page-tags.html %}
       </div>
-
+      <div><input type="hidden" name="IL_IN_TAG" value="1"/></div>
       <div class="page-content">
         <div class="e-content">
-          <div>
-            <script type="text/javascript">
-    var infolinks_pid = 3114151;
-    var infolinks_wsid = 0;
-    </script>
-    <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
-  </div>
+
           {{ content }}
         </div>
 
@@ -42,7 +36,13 @@ layout: default
         {% if site.disqus.shortname %}
           {% include disqus-comments.html %}
         {% endif %}
-
+        <div>
+          <script type="text/javascript">
+  var infolinks_pid = 3114151;
+  var infolinks_wsid = 0;
+  </script>
+  <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+</div>
         {% include page-pagination.html %}
       </div>
         </div>
