@@ -2,13 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Opportunities to your inbox.</description>
+    <description>Bringing opportunities to your inbox.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Hey Bio! Welcome to CS</title>
+        <pubDate>Thu, 26 Jul 2018 07:32:40 +0530</pubDate>
+        <link>http://localhost:4000//learning/2018/07/26/biocs.html</link>
+        <guid isPermaLink="true">http://localhost:4000//learning/2018/07/26/biocs.html</guid>
+      </item>
+    
+      <item>
+        <title>Startup School 2018</title>
+        <pubDate>Thu, 26 Jul 2018 07:31:40 +0530</pubDate>
+        <link>http://localhost:4000//startup/2018/07/26/startupschool.html</link>
+        <guid isPermaLink="true">http://localhost:4000//startup/2018/07/26/startupschool.html</guid>
+      </item>
+    
+      <item>
+        <title>Sashakt Women for Science Scholarship</title>
+        <pubDate>Thu, 26 Jul 2018 07:30:40 +0530</pubDate>
+        <link>http://localhost:4000//scholarship/2018/07/26/sashakt-scholar.html</link>
+        <guid isPermaLink="true">http://localhost:4000//scholarship/2018/07/26/sashakt-scholar.html</guid>
+      </item>
+    
+      <item>
+        <title>Santoor Women's Scholarship</title>
+        <pubDate>Thu, 26 Jul 2018 07:29:40 +0530</pubDate>
+        <link>http://localhost:4000//scholarship/2018/07/26/santoor-scholarship.html</link>
+        <guid isPermaLink="true">http://localhost:4000//scholarship/2018/07/26/santoor-scholarship.html</guid>
+      </item>
+    
+      <item>
+        <title>Moz Hack - Call for Volunteers</title>
+        <pubDate>Thu, 26 Jul 2018 07:28:40 +0530</pubDate>
+        <link>http://localhost:4000//volunteer/2018/07/26/mozfest.html</link>
+        <guid isPermaLink="true">http://localhost:4000//volunteer/2018/07/26/mozfest.html</guid>
+      </item>
+    
+      <item>
+        <title>Robic Rufarm Internship</title>
+        <pubDate>Thu, 26 Jul 2018 07:27:40 +0530</pubDate>
+        <link>http://localhost:4000//internship/2018/07/26/robicnternship.html</link>
+        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/26/robicnternship.html</guid>
+      </item>
+    
+      <item>
+        <title>Learn from Autodesk - Fusion 360 Basics</title>
+        <pubDate>Thu, 26 Jul 2018 07:22:40 +0530</pubDate>
+        <link>http://localhost:4000//training/webinar/2018/07/26/autodesk-webinar.html</link>
+        <guid isPermaLink="true">http://localhost:4000//training/webinar/2018/07/26/autodesk-webinar.html</guid>
+      </item>
+    
+      <item>
         <title>Unite 2030 Hackathon</title>
-
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0530</pubDate>
         <link>http://localhost:4000//hackathon/2018/07/23/unite2030.html</link>
         <guid isPermaLink="true">http://localhost:4000//hackathon/2018/07/23/unite2030.html</guid>
@@ -16,7 +64,6 @@
     
       <item>
         <title>Fresher Job at Tessolve</title>
-
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0530</pubDate>
         <link>http://localhost:4000//job/2018/07/23/freshjob.html</link>
         <guid isPermaLink="true">http://localhost:4000//job/2018/07/23/freshjob.html</guid>
@@ -24,7 +71,6 @@
     
       <item>
         <title>Crushy Internship</title>
-
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0530</pubDate>
         <link>http://localhost:4000//internship/2018/07/23/crushy-internship.html</link>
         <guid isPermaLink="true">http://localhost:4000//internship/2018/07/23/crushy-internship.html</guid>
@@ -32,7 +78,6 @@
     
       <item>
         <title>Free Android Development for Beginners</title>
-
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0530</pubDate>
         <link>http://localhost:4000//learning/2018/07/23/codeandroid.html</link>
         <guid isPermaLink="true">http://localhost:4000//learning/2018/07/23/codeandroid.html</guid>
@@ -40,7 +85,6 @@
     
       <item>
         <title>Free Python Training</title>
-
         <pubDate>Sun, 22 Jul 2018 07:42:40 +0530</pubDate>
         <link>http://localhost:4000//training/2018/07/22/python.html</link>
         <guid isPermaLink="true">http://localhost:4000//training/2018/07/22/python.html</guid>
@@ -48,7 +92,6 @@
     
       <item>
         <title>Google Online Marketing Challenge</title>
-
         <pubDate>Sun, 22 Jul 2018 07:42:40 +0530</pubDate>
         <link>http://localhost:4000//competition/2018/07/22/google-challenge.html</link>
         <guid isPermaLink="true">http://localhost:4000//competition/2018/07/22/google-challenge.html</guid>
@@ -56,7 +99,6 @@
     
       <item>
         <title>Nissan Recruitment Freshers</title>
-
         <pubDate>Sun, 22 Jul 2018 07:40:40 +0530</pubDate>
         <link>http://localhost:4000//job/2018/07/22/nissan.html</link>
         <guid isPermaLink="true">http://localhost:4000//job/2018/07/22/nissan.html</guid>
@@ -64,66 +106,9 @@
     
       <item>
         <title>AngelHack Global Hackathon</title>
-
         <pubDate>Sun, 22 Jul 2018 07:39:40 +0530</pubDate>
         <link>http://localhost:4000//hackathon/2018/07/22/hackathon-angel.html</link>
         <guid isPermaLink="true">http://localhost:4000//hackathon/2018/07/22/hackathon-angel.html</guid>
-      </item>
-    
-      <item>
-        <title>Session on Building FB Bots</title>
-
-        <pubDate>Sun, 22 Jul 2018 07:37:40 +0530</pubDate>
-        <link>http://localhost:4000//learning/2018/07/22/fb-bot.html</link>
-        <guid isPermaLink="true">http://localhost:4000//learning/2018/07/22/fb-bot.html</guid>
-      </item>
-    
-      <item>
-        <title>Community Manager at Blockchain Company</title>
-
-        <pubDate>Sun, 22 Jul 2018 07:35:40 +0530</pubDate>
-        <link>http://localhost:4000//job/2018/07/22/communitymanager.html</link>
-        <guid isPermaLink="true">http://localhost:4000//job/2018/07/22/communitymanager.html</guid>
-      </item>
-    
-      <item>
-        <title>Be a part of Opportunity Inbox</title>
-
-        <pubDate>Sat, 21 Jul 2018 09:30:40 +0530</pubDate>
-        <link>http://localhost:4000//2018/07/21/opportunityinbox.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2018/07/21/opportunityinbox.html</guid>
-      </item>
-    
-      <item>
-        <title>ShareChat Internship</title>
-
-        <pubDate>Sat, 21 Jul 2018 06:55:40 +0530</pubDate>
-        <link>http://localhost:4000//internship/2018/07/21/schatinternship.html</link>
-        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/21/schatinternship.html</guid>
-      </item>
-    
-      <item>
-        <title>Sanfoundry Internship</title>
-
-        <pubDate>Sat, 21 Jul 2018 06:33:40 +0530</pubDate>
-        <link>http://localhost:4000//internship/2018/07/21/sanfoundry.html</link>
-        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/21/sanfoundry.html</guid>
-      </item>
-    
-      <item>
-        <title>Graana Creative Internship</title>
-
-        <pubDate>Sat, 21 Jul 2018 06:30:40 +0530</pubDate>
-        <link>http://localhost:4000//internship/2018/07/21/graana.html</link>
-        <guid isPermaLink="true">http://localhost:4000//internship/2018/07/21/graana.html</guid>
-      </item>
-    
-      <item>
-        <title>International Blockchain Congress 2018</title>
-
-        <pubDate>Fri, 20 Jul 2018 06:30:40 +0530</pubDate>
-        <link>http://localhost:4000//conference/2018/07/20/ibc.html</link>
-        <guid isPermaLink="true">http://localhost:4000//conference/2018/07/20/ibc.html</guid>
       </item>
     
   </channel>

@@ -538,4 +538,39 @@ var store = [{
         "excerpt":"Passionate about climate change? Want to create a project that saves the planet? Dedicated to saving our oceans? Applications are still open for UNITE2030: Hack for the Planet. UNITE 2030 is a global, virtual, 48-hour hackathon for positive social change. It’s a great opportunity to meet young people from all...","categories": ["hackathon"],
         "tags": [],
         "url": "http://localhost:4000/hackathon/2018/07/23/unite2030.html"
+      },{
+        "title": "Learn from Autodesk - Fusion 360 Basics",
+        "excerpt":"Learn Fusion 360 Basics Learn how to design with Autodesk Fusion 360 to practice modelling parts that match real-life constraints. This is intended for those out there who are completely new users of Fusion 360. Jul 26, 2018 7:00 PM in India Register here Can be viewed on mobile phone...","categories": ["training","webinar"],
+        "tags": [],
+        "url": "http://localhost:4000/training/webinar/2018/07/26/autodesk-webinar.html"
+      },{
+        "title": "Robic Rufarm Internship",
+        "excerpt":"Robic Rufarm India pvt. ltd. is an agri-tech startup focused on solving problems related to farmers in an innovative way through technology. We are being mentored by NSRCEL, IIM Bangalore.Incubated and located at National Academy of Agriculture and Research Institute (NAARM), Hyderabad. “We are providing Research Internship for qualified students.”...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/26/robicnternship.html"
+      },{
+        "title": "Moz Hack - Call for Volunteers",
+        "excerpt":"Call for Volunteers for the amazing Moz Hack 2018! Moz Hack is the student run largest premier hackathon of India, bringing together 400+ programmers for 24 hours of fun. Lots of swags for volunteers. Register Yourself. Location - Delhi , India Check it out at https://mozhack.tech. Date : 29-30 September...","categories": ["volunteer"],
+        "tags": [],
+        "url": "http://localhost:4000/volunteer/2018/07/26/mozfest.html"
+      },{
+        "title": "Santoor Women's Scholarship",
+        "excerpt":"The Santoor Scholarship program is an initiative of Wipro Consumer Care and Wipro Cares. The program intends to financially support girls from disadvantaged backgrounds, who wish to pursue higher education after grade 12. Launched in 2016-17, the program offers support to 900 students every year, across the states of Andhra...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/26/santoor-scholarship.html"
+      },{
+        "title": "Sashakt Women for Science Scholarship",
+        "excerpt":"Sashakt Scholarship is a one-of-its-kind initiative to encourage promising young women across India to prepare for and pursue a career in science. Covers all three years of study towards earning a B.Sc. degree. Who ? Bright, young girls with a record of academic excellence, who are confident of getting admission...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/26/sashakt-scholar.html"
+      },{
+        "title": "Startup School 2018",
+        "excerpt":"Startup School is a free, 10-week, online course. It’s designed for any startup founder who would like to get help through the earliest, most difficult challenges of starting a company. The course will begin on August 27, 2018 and applications are now open at StartupSchool.org. Startup School is designed for...","categories": ["startup"],
+        "tags": [],
+        "url": "http://localhost:4000/startup/2018/07/26/startupschool.html"
+      },{
+        "title": "Hey Bio! Welcome to CS",
+        "excerpt":"Changes, choices and chances! Are you a first year student with Biology background? Not confident enough with fundamentals of computer programming? Confused about how to follow CS/IT classes? Here is the end to all your dilemma! Pehia Foundation is planning to conduct an orientation programme exclusively for first year students,...","categories": ["learning"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/2018/07/26/biocs.html"
       }]
