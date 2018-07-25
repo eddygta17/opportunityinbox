@@ -27,24 +27,16 @@ layout: default
           {{ content }}
         </div>
 
-        {% if page.share %}
-          {% include social-share.html %}
-        {% endif %}
+        {% include social-share.html %}
+
         {% include subscribe.html %}
 
-        {% include disqus-comments.html %}
-        {% if site.disqus.shortname %}
-          {% include disqus-comments.html %}
-        {% endif %}
-        <div>
-          <script type="text/javascript">
-  var infolinks_pid = 3114151;
-  var infolinks_wsid = 0;
-  </script>
-  <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
-</div>
+        {% include infolinks.html}
+
+        {% include fb-comments.html %}
+
         {% include page-pagination.html %}
-      </div>
+        </div>
         </div>
 
   </article>
