@@ -538,4 +538,89 @@ var store = [{
         "excerpt":"Passionate about climate change? Want to create a project that saves the planet? Dedicated to saving our oceans? Applications are still open for UNITE2030: Hack for the Planet. UNITE 2030 is a global, virtual, 48-hour hackathon for positive social change. It’s a great opportunity to meet young people from all...","categories": ["hackathon"],
         "tags": [],
         "url": "http://localhost:4000/hackathon/2018/07/23/unite2030.html"
+      },{
+        "title": "Learn from Autodesk - Fusion 360 Basics",
+        "excerpt":"Learn Fusion 360 Basics Learn how to design with Autodesk Fusion 360 to practice modelling parts that match real-life constraints. This is intended for those out there who are completely new users of Fusion 360. Jul 26, 2018 7:00 PM in India Register here Can be viewed on mobile phone...","categories": ["training","webinar"],
+        "tags": [],
+        "url": "http://localhost:4000/training/webinar/2018/07/26/autodesk-webinar.html"
+      },{
+        "title": "Robic Rufarm Internship",
+        "excerpt":"Robic Rufarm India pvt. ltd. is an agri-tech startup focused on solving problems related to farmers in an innovative way through technology. We are being mentored by NSRCEL, IIM Bangalore.Incubated and located at National Academy of Agriculture and Research Institute (NAARM), Hyderabad. “We are providing Research Internship for qualified students.”...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/26/robicnternship.html"
+      },{
+        "title": "Moz Hack - Call for Volunteers",
+        "excerpt":"Call for Volunteers for the amazing Moz Hack 2018! Moz Hack is the student run largest premier hackathon of India, bringing together 400+ programmers for 24 hours of fun. Lots of swags for volunteers. Register Yourself. Location - Delhi , India Check it out at https://mozhack.tech. Date : 29-30 September...","categories": ["volunteer"],
+        "tags": [],
+        "url": "http://localhost:4000/volunteer/2018/07/26/mozfest.html"
+      },{
+        "title": "Santoor Women's Scholarship",
+        "excerpt":"The Santoor Scholarship program is an initiative of Wipro Consumer Care and Wipro Cares. The program intends to financially support girls from disadvantaged backgrounds, who wish to pursue higher education after grade 12. Launched in 2016-17, the program offers support to 900 students every year, across the states of Andhra...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/26/santoor-scholarship.html"
+      },{
+        "title": "Sashakt Women for Science Scholarship",
+        "excerpt":"Sashakt Scholarship is a one-of-its-kind initiative to encourage promising young women across India to prepare for and pursue a career in science. Covers all three years of study towards earning a B.Sc. degree. Who ? Bright, young girls with a record of academic excellence, who are confident of getting admission...","categories": ["scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/scholarship/2018/07/26/sashakt-scholar.html"
+      },{
+        "title": "Startup School 2018",
+        "excerpt":"Startup School is a free, 10-week, online course. It’s designed for any startup founder who would like to get help through the earliest, most difficult challenges of starting a company. The course will begin on August 27, 2018 and applications are now open at StartupSchool.org. Startup School is designed for...","categories": ["startup"],
+        "tags": [],
+        "url": "http://localhost:4000/startup/2018/07/26/startupschool.html"
+      },{
+        "title": "Hey Bio! Welcome to CS",
+        "excerpt":"Changes, choices and chances! Are you a first year student with Biology background? Not confident enough with fundamentals of computer programming? Confused about how to follow CS/IT classes? Here is the end to all your dilemma! Pehia Foundation is planning to conduct an orientation programme exclusively for first year students,...","categories": ["learning"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/2018/07/26/biocs.html"
+      },{
+        "title": "World Challenge 2018",
+        "excerpt":"Application deadline August 3rd NASA &amp; ESA provide you with a world class open source virtual globe platform, WorldWind. Your mission, should you choose to accept it, is to use it to help make a better world! BUILD A WEB APP THAT WILL IMPROVE LIFE HERE ON EARTH. This World...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/27/nasachallenge.html"
+      },{
+        "title": "Memory Design Engineer (Fresher)",
+        "excerpt":"You will be part of the Corporate Memory Organization memory compiler team and will own significant engineering tasks in a fast-paced and technically challenging environment. Responsibilities Design, validation and characterization of Memory Compilers Provide design solutions for meeting challenging memory design specs for various product segments Memory Compiler Design Flow/Methodology...","categories": ["job"],
+        "tags": [],
+        "url": "http://localhost:4000/job/2018/07/27/memory-engineer.html"
+      },{
+        "title": "IITB RESEARCH INTERNSHIP AWARDS 2018-19",
+        "excerpt":"IITB Research Internship Award is designed to be an educational and professional research experience. These awards are available for specific research projects. The details of these projects are made available to the candidates so that they can apply for projects of their interest and can prepare themselves well for a...","categories": ["research","internship","scholarship"],
+        "tags": [],
+        "url": "http://localhost:4000/research/internship/scholarship/2018/07/27/iitb-research-award.html"
+      },{
+        "title": "ChangemakerXchange 2018 ",
+        "excerpt":"MChangemakerXchange is a global collaboration platform for young social innovators to connect and develop cross-border collaborations. This special China summit is hosted by Code For Asia Society Ltd. and Ride with Books and is made possible by our exclusive partner in Ginkgo Foundation. The summit will take place from Monday,...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/27/changemakerz.html"
+      },{
+        "title": "Getlitt Internship ",
+        "excerpt":"Hi, I am Richa, Co-Founder of getlitt.co – a gamified reading app for children. We are changing the way children discover and access books and fall in love with reading. Currently we have titles from some of the leading names in children’s literature – Duckbill, Tulika, Pratham, Pickle Yolk books,...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/27/kidinternship.html"
+      },{
+        "title": "Conference on Computer, Electrical & Communication Engg.",
+        "excerpt":"Deadline for Paper Submission: September 25, 2018 The International Conference on Computer, Electrical &amp; Communication Engineering (ICCECE) is an international conference hosted by Techno India University, Kolkata covering research aspects in Computer, Electrical and Communication Engineering. The conference invites International Participants to present research papers through Skype, which is probably...","categories": ["conference"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/2018/07/27/ieee-conference.html"
+      },{
+        "title": "Internship - Ministry of Women & Child Development",
+        "excerpt":"Apply before August 2018 Ministry of Woman And Child Development (MWCD) is inviting nomination from studentsundergoing/completed Graduation/Post Graduation Courses in different academicInstitutions/Universities under ‘Internship Programme’ of 1-2 months/6 months duration. This would help them in orientating with the policies and programmes of the Ministry by offering short-term orientation. Duration: 01/09/2018...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/28/wdc-internship.html"
+      },{
+        "title": "Internship - Ministry of Environment",
+        "excerpt":"Wildlife Crime Control Bureau is a statutory multi-disciplinary body established by the Government of India under the Ministry of Environment and Forests, &amp; Climate Change, to combat organized wildlife crime in the country. Internship at Wildlife Crime Control Bureau provides an excellent opportunity for students/researches to familiarize with various issues...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/28/wildlife-internship.html"
+      },{
+        "title": "Tantan Campus Ambassador Program",
+        "excerpt":"Tantan, founded in 2014, is a social app for meeting new people and expanding your social circle. With a balanced female-male ratio and the high quality of user base, Tantan has reached a total of more than 150 million users. Tantan is looking for outgoing, socially active students who are...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/28/tantan.html"
+      },{
+        "title": "Internship in Computational Biology & Bioinformatics - RGCB",
+        "excerpt":"Rajiv Gandhi Centre for Biotechnology (RGCB), Trivandrum, Kerala One-Year Internship Program in Computational Biology &amp; Bioinformatics This one-year internship program is a platform for highly motivated students to explore bioinformatics through practical experience. It provides a solid base to the use of bioinformatics by providing theory and hands-on training in...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/28/internship-rgbc.html"
       }]
