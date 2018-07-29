@@ -19,7 +19,7 @@ __Conditions:__
 4. Love for Community.
 
 
-[Register here.](http://bit.ly/GoogleCrowdsourceCampusRepresentativeApplication)
+### [Register here.](http://bit.ly/GoogleCrowdsourceCampusRepresentativeApplication)
 
 
  Don't wait! Just fill the form below!
