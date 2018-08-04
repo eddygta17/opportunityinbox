@@ -20,10 +20,10 @@ Against this background, NITI Aayog, in collaboration with various ministries an
 ### The hackathon has two seperate campaigns,
 
 
-> 1.Just Code It
+> 1.Just Code It:-
 > This requires to solve some of the most challenging problems in mobility through innovations in software development and data analysis based on available data sets.
 >
-> 2.Just Solve It
+> 2.Just Solve It:-
 > This requires to develop an inventive business idea or sustainable solution to transform India's transport infrastructure through technology. This grand opportunity will allow you to translate your ideas into products.
 
 
