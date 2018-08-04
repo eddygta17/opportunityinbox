@@ -27,5 +27,8 @@ Against this background, NITI Aayog, in collaboration with various ministries an
 > This requires to develop an inventive business idea or sustainable solution to transform India's transport infrastructure through technology. This grand opportunity will allow you to translate your ideas into products.
 
 
+# For registration visit [here](https://www.movehack.gov.in/global-mobility-hackathon/).
+
+
 
 If you have any queries, please reach at move.theworld@gov.in
