@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Global Mobility Hackathon"
+title:  "LinuxChix Call for Proposals"
 date:   2018-08-04 08:23:40 +0530
 categories: conference workshop
 ---
