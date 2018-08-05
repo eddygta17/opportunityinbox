@@ -623,4 +623,84 @@ var store = [{
         "excerpt":"Rajiv Gandhi Centre for Biotechnology (RGCB), Trivandrum, Kerala One-Year Internship Program in Computational Biology &amp; Bioinformatics This one-year internship program is a platform for highly motivated students to explore bioinformatics through practical experience. It provides a solid base to the use of bioinformatics by providing theory and hands-on training in...","categories": ["internship"],
         "tags": [],
         "url": "http://localhost:4000/internship/2018/07/28/internship-rgbc.html"
+      },{
+        "title": "Defence India Startup Challenge",
+        "excerpt":"Register for the event using this form.  ","categories": ["startup"],
+        "tags": [],
+        "url": "http://localhost:4000/startup/2018/07/29/defence-startup.html"
+      },{
+        "title": "Machine Learning Study Jam by GDG Cochin ",
+        "excerpt":"Google’s Machine Learning crash course based study jam organizing by GDG Cochin in association with Kerala AI Initiative and Nurture.ai Read about MLCC here. This study jam will be very focused on Machine Learning principles. A good working knowledge of Python is mandatory to be productive Starting Date : 4th...","categories": ["learning"],
+        "tags": [],
+        "url": "http://localhost:4000/learning/2018/07/29/gdc-ml.html"
+      },{
+        "title": "Megathon 2018: Student Hackathon on Women’s Safety",
+        "excerpt":"register by August 12 2018 A mega brainstorming of life hacks over a marathon session. And this student-led event jointly organized by the Entrepreneurial-cells (E-cells) of IIIT-H and IIT Hyderabad respectively is here again, but in different avataars. With a view to dissolving geographical boundaries and making the event accessible...","categories": ["hackathon"],
+        "tags": [],
+        "url": "http://localhost:4000/hackathon/2018/07/29/megathon.html"
+      },{
+        "title": "Merck Innovative Research Grants",
+        "excerpt":"At the occasion of its 350th anniversary Merck offers a series of research grants to stimulate innovative research in challenging areas of future importance. Merck intends to provide several research grants of up to EUR 350,000 per year for 3 years in various topic areas with the option of extension...","categories": ["research"],
+        "tags": [],
+        "url": "http://localhost:4000/research/2018/07/29/merck-grant.html"
+      },{
+        "title": "Google Crowdsource Campus Representative",
+        "excerpt":"Want to be for Student Campus Representative of Google Crowdsource? If you think you got the leadership skills then comment on this post.Also, Tag Students whom you think can be one. Conditions: Should be a Student enrolled in any undergraduate Course at an approved university. Should have leadership skills. Good...","categories": ["internship","volunteer"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/volunteer/2018/07/29/google-crowd-campus.html"
+      },{
+        "title": "Google Visualize 2030 Challenge",
+        "excerpt":"Deadline: September 30, 2018 Applications are open for the Google Cloud’s Data Solutions for Change “Visualize 2030” Challenge 2018 . Tell a data-driven story that reveals how at least two SDGs influence each other and what actions might be taken in order to reach those goals by 2030 to take...","categories": ["competition"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/2018/07/29/google-visulaize-challenge.html"
+      },{
+        "title": "Dell Campus Ambassador",
+        "excerpt":"Have a passion you want to show the world? Burning with the desire to be a leader? In that case, you couldn’t have found a better place. Welcome to the platform of passion-seekers, leaders and experts, where passions come to life and skills are nurtured to perfection. Showcase your projects...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/30/dell-campus-rep.html"
+      },{
+        "title": "RedCarpet Campus Leader Program",
+        "excerpt":"This program is a task-based internship where you will be working to complete small tasks in order to achieve a bigger goal. Each task will be theme based, and upon completion of each task, you will unlock the next. On this page, you can go ahead and apply for the...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/07/30/red-carpet-ambassador.html"
+      },{
+        "title": "Give Tuitions to Students",
+        "excerpt":"As college students many of us may need extra income to support our coursework or as a side income. Do you have the skills to teach? Many of us may have thought of giving tuitions to younger children, but do not know where to start, Superprof is a platform just...","categories": ["job"],
+        "tags": [],
+        "url": "http://localhost:4000/job/2018/07/31/turion.html"
+      },{
+        "title": "MyCaptain Internship",
+        "excerpt":"MyCaptain Discover is a program for school students to discover their interests, explore the various fields in which they can make a career in and interact with young mentors who have made their mark in the field. We are hiring content writing interns to make Discover what we dream it...","categories": ["internship"],
+        "tags": [],
+        "url": "http://localhost:4000/internship/2018/08/01/mycap.html"
+      },{
+        "title": "Student Innovation Award",
+        "excerpt":"An international competition for students aiming to recognise innovative thinking and pioneering solutions in the area of olefin, polyolefin or base chemicals research. The Borealis Student Innovation Award is an international competition for students from all over the world. This year’s competition marks the tenth anniversary of the award. Following...","categories": ["competition","startup"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/startup/2018/08/01/student-ia.html"
+      },{
+        "title": "NCM Open Call",
+        "excerpt":"*is annual contest held by Nexon Computer Museum to support new challenges of potential creators. We welcome emergent imagination with artistic and innovative comprehension of Virtual Reality(VR).* In 2018, Nexon Computer Museum is opening its 3rd OPEN CALL, calling for active participation in VR, AR and MR contents creation. Are...","categories": ["competition","startup"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/startup/2018/08/01/ncm-open.html"
+      },{
+        "title": "Launch IIITD Hackathon",
+        "excerpt":"Register Here About the event An entrepreneurial hackathon organised by IIIT-Delhi, with an aim to catalyze the encounter of vivid talents and stir up the venturesomeness in the minds of the aspiring enthusiasts to promote the culture of technical startups. Promoting Diversity With this edition of LaunchIIITD, we aim to...","categories": ["hackathon","startup"],
+        "tags": [],
+        "url": "http://localhost:4000/hackathon/startup/2018/08/01/launch-hack.html"
+      },{
+        "title": "e-Yantra Robotic Competition",
+        "excerpt":"e-Yantra Robotics Competition (eYRC) is a unique annual competition for undergraduate students in Engineering/ Science/ Polytechnic colleges. The competition has evolved over the years to include more number of teams by introducing different Tracks in the competition. Currently in its seventh edition, eYRC-2018 introduces multiple Tracks – all Tracks are...","categories": ["competition","internship"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/internship/2018/08/03/eyantra.html"
+      },{
+        "title": "Global Mobility Hackathon",
+        "excerpt":"Application deadline August 15 About the hackathon Transportation and mobility are emerging as potential drivers of innovation and economic growth of the 21st century. Rapidly evolving technologies and business models for delivering mobility services have dramatic potential to transform the global transportation sector in the times to come. Mobility that...","categories": ["competition","hackathon"],
+        "tags": [],
+        "url": "http://localhost:4000/competition/hackathon/2018/08/04/move-hackathon.html"
+      },{
+        "title": "LinuxChix Call for Proposals",
+        "excerpt":"LinuxChix India chapter is looking for proposals for talks and workshops. Submit a proposal by raising an issue on github here.  ","categories": ["conference","workshop"],
+        "tags": [],
+        "url": "http://localhost:4000/conference/workshop/2018/08/04/cfp-linuxchix.html"
       }]
